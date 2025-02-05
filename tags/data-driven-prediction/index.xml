@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data-Driven Prediction | Zhiqiang Huo Profile</title>
-    <link>https://example.com/tags/data-driven-prediction/</link>
-      <atom:link href="https://example.com/tags/data-driven-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:7232/tags/data-driven-prediction/</link>
+      <atom:link href="http://localhost:7232/tags/data-driven-prediction/index.xml" rel="self" type="application/rss+xml" />
     <description>Data-Driven Prediction</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo.svg</url>
+      <url>http://localhost:7232/media/logo.svg</url>
       <title>Data-Driven Prediction</title>
-      <link>https://example.com/tags/data-driven-prediction/</link>
+      <link>http://localhost:7232/tags/data-driven-prediction/</link>
     </image>
     
     <item>
       <title>Data-driven Health Monitoring and Fault Diagnosis of Industrial Machinery Systems</title>
-      <link>https://example.com/project/machinefaultdiagnosis/</link>
+      <link>http://localhost:7232/project/machinefaultdiagnosis/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/machinefaultdiagnosis/</guid>
+      <guid>http://localhost:7232/project/machinefaultdiagnosis/</guid>
       <description>&lt;h3 id=&#34;collaboration--partners&#34;&gt;🙏Collaboration &amp;amp; Partners&lt;/h3&gt;
 &lt;p&gt;This project is collaboration between &lt;a href=&#34;https://www.lincoln.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Lincoln&lt;/a&gt;, &lt;a href=&#34;https://sites.google.com/view/leishu/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nanjing Agricultural University&lt;/a&gt;, Guangdong University of Petrochemical Technology.&lt;/p&gt;
 &lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ICU Transport Monitoring | Zhiqiang Huo Profile</title>
-    <link>https://example.com/tags/icu-transport-monitoring/</link>
-      <atom:link href="https://example.com/tags/icu-transport-monitoring/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:7232/tags/icu-transport-monitoring/</link>
+      <atom:link href="http://localhost:7232/tags/icu-transport-monitoring/index.xml" rel="self" type="application/rss+xml" />
     <description>ICU Transport Monitoring</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo.svg</url>
+      <url>http://localhost:7232/media/logo.svg</url>
       <title>ICU Transport Monitoring</title>
-      <link>https://example.com/tags/icu-transport-monitoring/</link>
+      <link>http://localhost:7232/tags/icu-transport-monitoring/</link>
     </image>
     
     <item>
       <title>Dynamic Mortality Prediction in Critically Ill Children During Interhospital Transports Using Explainable AI</title>
-      <link>https://example.com/publication/npj_digital_medicine/</link>
+      <link>http://localhost:7232/publication/npj_digital_medicine/</link>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/npj_digital_medicine/</guid>
+      <guid>http://localhost:7232/publication/npj_digital_medicine/</guid>
       <description>&lt;h2 id=&#34;-ai-driven-mortality-prediction-for-interhospital-transport-in-pediatric-intensive-care&#34;&gt;🚑 AI-Driven Mortality Prediction for Interhospital Transport in Pediatric Intensive Care&lt;/h2&gt;
 &lt;p&gt;We are thrilled to share our latest research on &lt;strong&gt;real-time mortality risk prediction&lt;/strong&gt; in critically ill children during &lt;strong&gt;interhospital transport&lt;/strong&gt; to &lt;strong&gt;paediatric intensive care units (PICUs)&lt;/strong&gt;. This study, published in &lt;em&gt;npj Digital Medicine&lt;/em&gt;, introduces an &lt;strong&gt;explainable AI-powered model&lt;/strong&gt; designed to enhance &lt;strong&gt;clinical decision-making&lt;/strong&gt; in transport medicine.&lt;/p&gt;
 &lt;h3 id=&#34;-key-findings&#34;&gt;🔬 Key Findings&lt;/h3&gt;
@@ -29,7 +29,6 @@
 &lt;h3 id=&#34;-clinical-impact&#34;&gt;📢 Clinical Impact&lt;/h3&gt;
 &lt;p&gt;This research provides &lt;strong&gt;clinicians with real-time, AI-driven insights&lt;/strong&gt; to support &lt;strong&gt;early interventions&lt;/strong&gt;, reduce &lt;strong&gt;preventable adverse events&lt;/strong&gt;, and &lt;strong&gt;optimize transport outcomes&lt;/strong&gt;. The &lt;strong&gt;PROMPT model&lt;/strong&gt; paves the way for &lt;strong&gt;next-generation predictive analytics in pediatric intensive care transport&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;📄 &lt;strong&gt;Read the full article here:&lt;/strong&gt; &lt;a href=&#34;https://assets-eu.researchsquare.com/files/rs-4909545/v1_covered_71b68edf-7610-4e3b-a972-442481dd2bed.pdf?c=1726733242&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publication Link&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;🚀 &lt;strong&gt;We look forward to future clinical validation and real-world deployment of this AI-powered solution!&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
