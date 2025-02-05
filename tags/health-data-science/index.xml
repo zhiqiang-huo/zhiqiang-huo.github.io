@@ -5,12 +5,33 @@
     <link>https://example.com/tags/health-data-science/</link>
       <atom:link href="https://example.com/tags/health-data-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Health Data Science</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/logo.svg</url>
       <title>Health Data Science</title>
       <link>https://example.com/tags/health-data-science/</link>
     </image>
+    
+    <item>
+      <title>Dynamic Mortality Prediction in Critically Ill Children During Interhospital Transports Using Explainable AI</title>
+      <link>https://example.com/publication/npj_digital_medicine/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/npj_digital_medicine/</guid>
+      <description>&lt;h2 id=&#34;-ai-driven-mortality-prediction-for-interhospital-transport-in-pediatric-intensive-care&#34;&gt;🚑 AI-Driven Mortality Prediction for Interhospital Transport in Pediatric Intensive Care&lt;/h2&gt;
+&lt;p&gt;We are thrilled to share our latest research on &lt;strong&gt;real-time mortality risk prediction&lt;/strong&gt; in critically ill children during &lt;strong&gt;interhospital transport&lt;/strong&gt; to &lt;strong&gt;paediatric intensive care units (PICUs)&lt;/strong&gt;. This study, published in &lt;em&gt;npj Digital Medicine&lt;/em&gt;, introduces an &lt;strong&gt;explainable AI-powered model&lt;/strong&gt; designed to enhance &lt;strong&gt;clinical decision-making&lt;/strong&gt; in transport medicine.&lt;/p&gt;
+&lt;h3 id=&#34;-key-findings&#34;&gt;🔬 Key Findings&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Real-time, dynamic risk prediction&lt;/strong&gt; – Continuously evaluates mortality risk based on &lt;strong&gt;vital signs, interventions, and transport conditions&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Explainable AI with SHAP analysis&lt;/strong&gt; – Identifies &lt;strong&gt;key clinical contributors&lt;/strong&gt; to risk estimation, enhancing trust and usability.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Higher accuracy than traditional methods&lt;/strong&gt; – The &lt;strong&gt;PROMPT model&lt;/strong&gt; outperforms &lt;strong&gt;PIM3&lt;/strong&gt;, achieving &lt;strong&gt;AUROC of 0.83&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scalable deployment&lt;/strong&gt; – Designed for integration into &lt;strong&gt;ambulance monitoring systems&lt;/strong&gt; and &lt;strong&gt;clinical decision-support tools&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-clinical-impact&#34;&gt;📢 Clinical Impact&lt;/h3&gt;
+&lt;p&gt;This research provides &lt;strong&gt;clinicians with real-time, AI-driven insights&lt;/strong&gt; to support &lt;strong&gt;early interventions&lt;/strong&gt;, reduce &lt;strong&gt;preventable adverse events&lt;/strong&gt;, and &lt;strong&gt;optimize transport outcomes&lt;/strong&gt;. The &lt;strong&gt;PROMPT model&lt;/strong&gt; paves the way for &lt;strong&gt;next-generation predictive analytics in pediatric intensive care transport&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;📄 &lt;strong&gt;Read the full article here:&lt;/strong&gt; &lt;a href=&#34;https://assets-eu.researchsquare.com/files/rs-4909545/v1_covered_71b68edf-7610-4e3b-a972-442481dd2bed.pdf?c=1726733242&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publication Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🚀 &lt;strong&gt;We look forward to future clinical validation and real-world deployment of this AI-powered solution!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Published in Intensive Care Medicine – Paediatric and Neonatal: High-Frequency Vital Signs Monitoring in Critically Ill Children</title>

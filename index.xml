@@ -305,6 +305,27 @@
     </item>
     
     <item>
+      <title>Dynamic Mortality Prediction in Critically Ill Children During Interhospital Transports Using Explainable AI</title>
+      <link>https://example.com/publication/npj_digital_medicine/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/npj_digital_medicine/</guid>
+      <description>&lt;h2 id=&#34;-ai-driven-mortality-prediction-for-interhospital-transport-in-pediatric-intensive-care&#34;&gt;🚑 AI-Driven Mortality Prediction for Interhospital Transport in Pediatric Intensive Care&lt;/h2&gt;
+&lt;p&gt;We are thrilled to share our latest research on &lt;strong&gt;real-time mortality risk prediction&lt;/strong&gt; in critically ill children during &lt;strong&gt;interhospital transport&lt;/strong&gt; to &lt;strong&gt;paediatric intensive care units (PICUs)&lt;/strong&gt;. This study, published in &lt;em&gt;npj Digital Medicine&lt;/em&gt;, introduces an &lt;strong&gt;explainable AI-powered model&lt;/strong&gt; designed to enhance &lt;strong&gt;clinical decision-making&lt;/strong&gt; in transport medicine.&lt;/p&gt;
+&lt;h3 id=&#34;-key-findings&#34;&gt;🔬 Key Findings&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Real-time, dynamic risk prediction&lt;/strong&gt; – Continuously evaluates mortality risk based on &lt;strong&gt;vital signs, interventions, and transport conditions&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Explainable AI with SHAP analysis&lt;/strong&gt; – Identifies &lt;strong&gt;key clinical contributors&lt;/strong&gt; to risk estimation, enhancing trust and usability.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Higher accuracy than traditional methods&lt;/strong&gt; – The &lt;strong&gt;PROMPT model&lt;/strong&gt; outperforms &lt;strong&gt;PIM3&lt;/strong&gt;, achieving &lt;strong&gt;AUROC of 0.83&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scalable deployment&lt;/strong&gt; – Designed for integration into &lt;strong&gt;ambulance monitoring systems&lt;/strong&gt; and &lt;strong&gt;clinical decision-support tools&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-clinical-impact&#34;&gt;📢 Clinical Impact&lt;/h3&gt;
+&lt;p&gt;This research provides &lt;strong&gt;clinicians with real-time, AI-driven insights&lt;/strong&gt; to support &lt;strong&gt;early interventions&lt;/strong&gt;, reduce &lt;strong&gt;preventable adverse events&lt;/strong&gt;, and &lt;strong&gt;optimize transport outcomes&lt;/strong&gt;. The &lt;strong&gt;PROMPT model&lt;/strong&gt; paves the way for &lt;strong&gt;next-generation predictive analytics in pediatric intensive care transport&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;📄 &lt;strong&gt;Read the full article here:&lt;/strong&gt; &lt;a href=&#34;https://assets-eu.researchsquare.com/files/rs-4909545/v1_covered_71b68edf-7610-4e3b-a972-442481dd2bed.pdf?c=1726733242&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Publication Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🚀 &lt;strong&gt;We look forward to future clinical validation and real-world deployment of this AI-powered solution!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Co-designing a User-Centred Digital Portal for Stroke Survivors</title>
       <link>https://example.com/project/patientportal/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
@@ -395,7 +416,7 @@
     </item>
     
     <item>
-      <title>🏆 Best Paper Award at ICHI 2024!</title>
+      <title>🏆 Best Paper Award at IEEE ICHI 2024!</title>
       <link>https://example.com/post/best-paper-award-chi/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/best-paper-award-chi/</guid>
@@ -632,7 +653,7 @@
 
 
 
-&lt;div id=&#34;chart-317248659&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-427853619&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -650,7 +671,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-317248659&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-427853619&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1330,22 +1351,6 @@ Parallel 4   :         des6, after des4, 1d
 &lt;p&gt;📓- &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, Yu Zhang, Pierre Francq, Lei Shu, Jianfeng Huang.&lt;br&gt;
 &amp;ldquo;Incipient Fault Diagnosis of Roller Bearing using Optimized Wavelet Transform based Multi-speed Vibration Signatures.&amp;rdquo;&lt;br&gt;
 &lt;em&gt;IEEE Access&lt;/em&gt; (5-year IF: 3.7), 5, 19442-19456, 2017.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://example.com/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
-&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
