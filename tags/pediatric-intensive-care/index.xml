@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pediatric Intensive Care | Zhiqiang Huo Profile</title>
+    <link>https://example.com/tags/pediatric-intensive-care/</link>
+      <atom:link href="https://example.com/tags/pediatric-intensive-care/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pediatric Intensive Care</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo.svg</url>
+      <title>Pediatric Intensive Care</title>
+      <link>https://example.com/tags/pediatric-intensive-care/</link>
+    </image>
+    
+    <item>
+      <title>Leveragign AI to improve healthcare of critically ill children during transport to a higher level of care</title>
+      <link>https://example.com/project/cats/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/cats/</guid>
+      <description>&lt;h2 id=&#34;dynamic-mortality-prediction-in-critically-ill-children-during-inter-hospital-transports&#34;&gt;Dynamic Mortality Prediction in Critically Ill Children During Inter-Hospital Transports&lt;/h2&gt;
+&lt;h3 id=&#34;collaboration--partners&#34;&gt;🙏Collaboration &amp;amp; Partners&lt;/h3&gt;
+&lt;p&gt;This project is collaboration between &lt;a href=&#34;https://cats.nhs.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Children&amp;rsquo;s Acute Transport team&lt;/a&gt;, &lt;a href=&#34;https://www.gosh.nhs.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Great Ormand Street Hospital&lt;/a&gt;, &lt;a href=&#34;https://www.ucl.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University College London&lt;/a&gt; and &lt;a href=&#34;https://www.imperial.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Imperial College London&lt;/a&gt;, and a industry partner, &lt;a href=&#34;https://kinseed.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kinseed Company&lt;/a&gt; in the UK.&lt;/p&gt;
+&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;
+&lt;p&gt;Pediatric intensive care unit (PICU) transfers involve critically ill children requiring specialized medical intervention. However, inter-hospital transport poses significant risks, including deterioration due to unstable vital signs, equipment limitations, and delays in care. In the UK alone, thousands of pediatric patients are transferred each year, and timely risk assessment is critical to improving survival outcomes. Despite advancements in monitoring technology, there remains a gap in &lt;strong&gt;real-time mortality prediction models&lt;/strong&gt; tailored to the transport setting.&lt;/p&gt;
+&lt;h3 id=&#34;objective&#34;&gt;Objective&lt;/h3&gt;
+&lt;p&gt;This study introduces &lt;strong&gt;PROMPT (Patient-centred Real-time Outcome Monitoring and Mortality Prediction Tool)&lt;/strong&gt;, a machine learning-based framework designed to provide &lt;strong&gt;dynamic mortality predictions&lt;/strong&gt; during pediatric inter-hospital transport. The model integrates &lt;strong&gt;high-frequency time-series vital signs, clinical history, and transport-specific parameters&lt;/strong&gt; to assess mortality risk throughout the transfer period. The system employs &lt;strong&gt;explainable AI (SHAP - SHapley Additive exPlanations)&lt;/strong&gt; to enhance transparency and provide actionable insights for clinicians.&lt;/p&gt;
+&lt;h3 id=&#34;key-features&#34;&gt;Key Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Real-Time Mortality Prediction&lt;/strong&gt; – Continuously updates risk scores during patient transport to assist in clinical decision-making.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integration of Transport-Specific Data&lt;/strong&gt; – Factors in ventilation status, medication usage, and transport duration to improve predictive accuracy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Explainable AI (SHAP) for Interpretability&lt;/strong&gt; – Provides insights into contributing risk factors, ensuring trust and usability in clinical practice.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;impact&#34;&gt;Impact&lt;/h3&gt;
+&lt;p&gt;The &lt;strong&gt;PROMPT system&lt;/strong&gt; empowers clinicians with real-time, data-driven decision support, enhancing &lt;strong&gt;situational awareness and patient safety&lt;/strong&gt; during transport. By leveraging machine learning and continuous vital sign monitoring, this approach has the potential to &lt;strong&gt;optimize resource allocation, and improve transport protocols&lt;/strong&gt; for critically ill children. Future research will focus on &lt;strong&gt;prospective validation and clinical integration&lt;/strong&gt; to further refine model accuracy and adoption in healthcare settings.&lt;/p&gt;
+&lt;h3 id=&#34;featured-outputs&#34;&gt;Featured Outputs&lt;/h3&gt;
+&lt;p&gt;📓 - &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, John Booth, Thomas Monks, Philip Knight, Liam Watson, Mark Peters, Christina Pagel, Padmanabhan Ramnarayan, Kezhi Li.&lt;br&gt;
+&amp;ldquo;Dynamic Mortality Prediction in Critically Ill Children during Inter-hospital Transports to PICUs Using Explainable AI.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;npj Digital Medicine&lt;/em&gt; (5-year IF: 15.2), ACCEPTED, Jan. 2025.&lt;/p&gt;
+&lt;p&gt;📓 - &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, John Booth, Thomas Monks, Philip Knight, Liam Watson, Mark Peters, Christina Pagel, Padmanabhan Ramnarayan, Kezhi Li.&lt;br&gt;
+&amp;ldquo;Distribution and Trajectory of Vital Signs from High-Frequency Continuous Monitoring during Pediatric Critical Care Transport.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;Intensive Care Medicine – Paediatric and Neonatal (ICMPN)&lt;/em&gt;, 2023.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

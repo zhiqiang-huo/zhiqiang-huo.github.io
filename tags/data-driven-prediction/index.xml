@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data-Driven Prediction | Zhiqiang Huo Profile</title>
+    <link>https://example.com/tags/data-driven-prediction/</link>
+      <atom:link href="https://example.com/tags/data-driven-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data-Driven Prediction</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo.svg</url>
+      <title>Data-Driven Prediction</title>
+      <link>https://example.com/tags/data-driven-prediction/</link>
+    </image>
+    
+    <item>
+      <title>Data-driven Health Monitoring and Fault Diagnosis of Industrial Machinery Systems</title>
+      <link>https://example.com/project/machinefaultdiagnosis/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/machinefaultdiagnosis/</guid>
+      <description>&lt;h3 id=&#34;collaboration--partners&#34;&gt;🙏Collaboration &amp;amp; Partners&lt;/h3&gt;
+&lt;p&gt;This project is collaboration between &lt;a href=&#34;https://www.lincoln.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Lincoln&lt;/a&gt;, &lt;a href=&#34;https://sites.google.com/view/leishu/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nanjing Agricultural University&lt;/a&gt;, Guangdong University of Petrochemical Technology.&lt;/p&gt;
+&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;
+&lt;p&gt;Industrial rotating machinery, such as &lt;strong&gt;gas turbines and multi-stage centrifugal air pumps&lt;/strong&gt;, plays a critical role in various industries. However, unexpected failures can lead to &lt;strong&gt;operational downtime, increased maintenance costs, and potential safety hazards&lt;/strong&gt;. Traditional fault diagnosis approaches rely heavily on scheduled maintenance and manual inspections, which may &lt;strong&gt;fail to detect incipient faults early enough&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;With advancements in &lt;strong&gt;data-driven techniques and AI&lt;/strong&gt;, there is a growing opportunity to leverage &lt;strong&gt;real-time condition monitoring and predictive analytics&lt;/strong&gt; to enhance &lt;strong&gt;machine reliability and fault detection&lt;/strong&gt;. This project focuses on developing an &lt;strong&gt;intelligent health monitoring system&lt;/strong&gt; to proactively diagnose machinery faults and predict potential failures.&lt;/p&gt;
+&lt;h3 id=&#34;objective&#34;&gt;Objective&lt;/h3&gt;
+&lt;p&gt;This project aims to &lt;strong&gt;design and deploy a data-driven condition monitoring system&lt;/strong&gt; for industrial machinery to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Detect &lt;strong&gt;incipient faults early&lt;/strong&gt; and prevent catastrophic failures.&lt;/li&gt;
+&lt;li&gt;Apply &lt;strong&gt;advanced signal processing and machine learning models&lt;/strong&gt; to analyze machine health states.&lt;/li&gt;
+&lt;li&gt;Improve &lt;strong&gt;decision-making processes&lt;/strong&gt; for industrial maintenance teams.&lt;/li&gt;
+&lt;li&gt;Optimize &lt;strong&gt;predictive maintenance strategies&lt;/strong&gt;, reducing unplanned downtime.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;key-features&#34;&gt;Key Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Condition Monitoring System Deployment&lt;/strong&gt; – Installation of &lt;strong&gt;sensors and IoT-based solutions&lt;/strong&gt; for real-time data collection.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fault Diagnosis using AI&lt;/strong&gt; – Development of &lt;strong&gt;machine learning-based anomaly detection and classification models&lt;/strong&gt; for fault identification.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data-Driven Insights&lt;/strong&gt; – Analysis of &lt;strong&gt;vibration, acoustic, and temperature data&lt;/strong&gt; to assess machine health.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Predictive Maintenance Planning&lt;/strong&gt; – Integration of &lt;strong&gt;early warning systems&lt;/strong&gt; to trigger maintenance before severe damage occurs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Decision-Support System&lt;/strong&gt; – Implementation of &lt;strong&gt;automated alerts and visual dashboards&lt;/strong&gt; for engineers and operators.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;impact&#34;&gt;Impact&lt;/h3&gt;
+&lt;p&gt;This project enhances &lt;strong&gt;industrial reliability, operational efficiency, and maintenance strategies&lt;/strong&gt; by transitioning from traditional reactive maintenance to &lt;strong&gt;proactive, AI-driven diagnostics&lt;/strong&gt;. By applying &lt;strong&gt;data-driven fault diagnosis and predictive modeling&lt;/strong&gt;, industries can &lt;strong&gt;reduce maintenance costs, extend equipment lifespan, and ensure safer operations&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Future research will focus on &lt;strong&gt;real-time deployment, system scalability, and continuous learning AI models&lt;/strong&gt; for enhanced fault prediction accuracy.&lt;/p&gt;
+&lt;h3 id=&#34;featured-outputs&#34;&gt;Featured Outputs&lt;/h3&gt;
+&lt;p&gt;📓- &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, Miguel Martínez-García, Yu Zhang, Lei Shu.&lt;br&gt;
+&amp;ldquo;A Multi-sensor Information Fusion Method for High-Reliability Fault Diagnosis of Rotating Machinery.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Instrumentation and Measurement&lt;/em&gt; (5-year IF: 5.6), 2021.&lt;/p&gt;
+&lt;p&gt;📓- &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, Miguel Martínez-García, Yu Zhang, Ruqiang Yan, Lei Shu.&lt;br&gt;
+&amp;ldquo;Entropy Measures in Machine Fault Diagnosis: Insights and Applications.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Instrumentation and Measurement&lt;/em&gt; (5-year IF: 5.6), 69(6), 2607-2620, 2020.&lt;/p&gt;
+&lt;p&gt;📓- &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, Yu Zhang, Gbanaibolou Jombo, Lei Shu.&lt;br&gt;
+&amp;ldquo;Adaptive Multiscale Weighted Permutation Entropy for Rolling Bearing Fault Diagnosis.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;IEEE Access&lt;/em&gt; (5-year IF: 3.7), 8, 87529 – 87540, 2020.&lt;/p&gt;
+&lt;p&gt;📓- &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, Yu Zhang, Pierre Francq, Lei Shu, Jianfeng Huang.&lt;br&gt;
+&amp;ldquo;Incipient Fault Diagnosis of Roller Bearing using Optimized Wavelet Transform based Multi-speed Vibration Signatures.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;IEEE Access&lt;/em&gt; (5-year IF: 3.7), 5, 19442-19456, 2017.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

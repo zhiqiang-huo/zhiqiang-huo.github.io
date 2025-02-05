@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slef-Management | Zhiqiang Huo Profile</title>
+    <link>https://example.com/tags/slef-management/</link>
+      <atom:link href="https://example.com/tags/slef-management/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slef-Management</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo.svg</url>
+      <title>Slef-Management</title>
+      <link>https://example.com/tags/slef-management/</link>
+    </image>
+    
+    <item>
+      <title>Co-designing a User-Centred Digital Portal for Stroke Survivors</title>
+      <link>https://example.com/project/patientportal/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/patientportal/</guid>
+      <description>&lt;h2 id=&#34;co-designing-a-user-centred-digital-portal-for-stroke-survivors&#34;&gt;Co-designing a User-Centred Digital Portal for Stroke Survivors&lt;/h2&gt;
+&lt;h3 id=&#34;collaboration--partners&#34;&gt;🙏Collaboration &amp;amp; Partners&lt;/h3&gt;
+&lt;p&gt;This project is collaboration between &lt;a href=&#34;https://kcl.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;King&amp;rsquo;s College Lonodn&lt;/a&gt;, NHS, and &lt;a href=&#34;https://www.guysandstthomas.nhs.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guy&amp;rsquo;s and St Thomas&amp;rsquo; NHS Foundation Trust&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;
+&lt;p&gt;Stroke is the fourth leading cause of death in the UK and single largest cause of complex disability in adults, with annual costs projected to rise to £75bn within 20 years. 100,000 people have strokes each year in the UK. The NHS England (NHSE) Long Term Plan is committed to saving 150,000 lives from cardiovascular disease over the next 10 years. Stroke survivors, clinicians, and policymakers have consistently called for better quality data on the long-term consequences of stroke, to better inform their clinical decision making.&lt;/p&gt;
+&lt;p&gt;Stroke remains a major public health challenge, with approximately 90,000 new cases annually in the UK. Many stroke survivors face long-term disabilities, requiring ongoing health management and support. Digital patient portals present an opportunity to empower stroke survivors by facilitating self-management and improving accessibility to health information.&lt;/p&gt;
+&lt;h3 id=&#34;objective&#34;&gt;Objective&lt;/h3&gt;
+&lt;p&gt;This study introduces a &lt;strong&gt;user-centred patient portal&lt;/strong&gt; designed to support stroke survivors in tracking their health conditions and making informed self-management decisions. The portal was developed using a &lt;strong&gt;co-design approach&lt;/strong&gt;, involving stroke survivors, caregivers, clinicians, social scientists, and human-computer interaction experts to ensure its accessibility and usability.&lt;/p&gt;
+&lt;h3 id=&#34;key-features&#34;&gt;Key Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Personalized Health Records&lt;/strong&gt; – Users can access their clinical data, including stroke history and follow-up records.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blood Pressure Monitoring&lt;/strong&gt; – A dedicated feature for tracking blood pressure, helping to manage stroke recurrence risks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Health Self-Assessment Tools&lt;/strong&gt; – Stroke survivors can evaluate their progress using standardized assessments like the &lt;strong&gt;EQ-5D-5L&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Educational Resources &amp;amp; Support&lt;/strong&gt; – A centralized hub for stroke-related information and links to support services.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;impact&#34;&gt;Impact&lt;/h3&gt;
+&lt;p&gt;This patient portal enhances &lt;strong&gt;engagement, accessibility, and decision-making&lt;/strong&gt; for stroke survivors, promoting independence in managing their health. Future iterations will refine the system through usability testing and clinical validation.&lt;/p&gt;
+&lt;h3 id=&#34;featured-outputs&#34;&gt;Featured Outputs&lt;/h3&gt;
+&lt;p&gt;📓 - &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, T. Neate, D. Wyatt, S. Rowland-Coomber, M. Chapman, I. Marshall, C. Wolfe, V. Curcin.&lt;br&gt;
+&amp;ldquo;A Preliminary Case Study of Developing A Web-based Digital Portal for Stroke Survivors using Synthetic Personal Health Data.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;The 12th IEEE International Conference on Healthcare Informatics (IEEE ICHI 2024)&lt;/em&gt;, 2024.&lt;/p&gt;
+&lt;p&gt;📓- &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, T. Neate, D. Wyatt, S. Rowland-Coomber, M. Chapman, I. Marshall, C. Wolfe, V. Curcin.&lt;br&gt;
+&amp;ldquo;Co-designing a User-Centred Digital Portal to Support Health-related Self-management for Stroke Survivors.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;The 12th IEEE International Conference on Healthcare Informatics (IEEE ICHI 2024)&lt;/em&gt;, 2024.&lt;/p&gt;
+&lt;p&gt;📓- &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, D. Wyatt, S. Rowland-Coomber, T. Neate, M. Chapman, V. Curcin, I. Marshall, C. Wolfe.&lt;br&gt;
+&amp;ldquo;From Insights to Empowerment: Co-designing a Data-driven Self-management Patient Portal for Stroke Survivors with Integrated Knowledge Translation.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;2023 UK Stroke Forum, Birmingham, UK&lt;/em&gt;, December 2023.&lt;/p&gt;
+&lt;p&gt;📓- &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, T. Neate, I. Marshall, M. Chapman, V. Curcin.&lt;br&gt;
+&amp;ldquo;Designing User-Centred Patient Portals for Stroke Patients: Challenges in Accessibility, Engagement, and Interpretability.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;CHI’23 Workshop on Intelligent Data-Driven Health Interfaces&lt;/em&gt;, April 2022.&lt;/p&gt;
+&lt;p&gt;📓-  Hendrik Knoche, Alfie Abdul-Rahman, Leigh Clark, Vasa Curcin, &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, et al.&lt;br&gt;
+&amp;ldquo;Identifying Challenges and Opportunities for Intelligent Data-Driven Health Interfaces to Support Ongoing Care.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems&lt;/em&gt;, pp. 1-7, 2023.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

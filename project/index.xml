@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Zhiqiang Huo Profile</title>
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo.svg</url>
+      <title>Projects</title>
+      <link>https://example.com/project/</link>
+    </image>
+    
+    <item>
+      <title>Co-designing a User-Centred Digital Portal for Stroke Survivors</title>
+      <link>https://example.com/project/patientportal/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/patientportal/</guid>
+      <description>&lt;h2 id=&#34;co-designing-a-user-centred-digital-portal-for-stroke-survivors&#34;&gt;Co-designing a User-Centred Digital Portal for Stroke Survivors&lt;/h2&gt;
+&lt;h3 id=&#34;collaboration--partners&#34;&gt;🙏Collaboration &amp;amp; Partners&lt;/h3&gt;
+&lt;p&gt;This project is collaboration between &lt;a href=&#34;https://kcl.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;King&amp;rsquo;s College Lonodn&lt;/a&gt;, NHS, and &lt;a href=&#34;https://www.guysandstthomas.nhs.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guy&amp;rsquo;s and St Thomas&amp;rsquo; NHS Foundation Trust&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;
+&lt;p&gt;Stroke is the fourth leading cause of death in the UK and single largest cause of complex disability in adults, with annual costs projected to rise to £75bn within 20 years. 100,000 people have strokes each year in the UK. The NHS England (NHSE) Long Term Plan is committed to saving 150,000 lives from cardiovascular disease over the next 10 years. Stroke survivors, clinicians, and policymakers have consistently called for better quality data on the long-term consequences of stroke, to better inform their clinical decision making.&lt;/p&gt;
+&lt;p&gt;Stroke remains a major public health challenge, with approximately 90,000 new cases annually in the UK. Many stroke survivors face long-term disabilities, requiring ongoing health management and support. Digital patient portals present an opportunity to empower stroke survivors by facilitating self-management and improving accessibility to health information.&lt;/p&gt;
+&lt;h3 id=&#34;objective&#34;&gt;Objective&lt;/h3&gt;
+&lt;p&gt;This study introduces a &lt;strong&gt;user-centred patient portal&lt;/strong&gt; designed to support stroke survivors in tracking their health conditions and making informed self-management decisions. The portal was developed using a &lt;strong&gt;co-design approach&lt;/strong&gt;, involving stroke survivors, caregivers, clinicians, social scientists, and human-computer interaction experts to ensure its accessibility and usability.&lt;/p&gt;
+&lt;h3 id=&#34;key-features&#34;&gt;Key Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Personalized Health Records&lt;/strong&gt; – Users can access their clinical data, including stroke history and follow-up records.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blood Pressure Monitoring&lt;/strong&gt; – A dedicated feature for tracking blood pressure, helping to manage stroke recurrence risks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Health Self-Assessment Tools&lt;/strong&gt; – Stroke survivors can evaluate their progress using standardized assessments like the &lt;strong&gt;EQ-5D-5L&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Educational Resources &amp;amp; Support&lt;/strong&gt; – A centralized hub for stroke-related information and links to support services.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;impact&#34;&gt;Impact&lt;/h3&gt;
+&lt;p&gt;This patient portal enhances &lt;strong&gt;engagement, accessibility, and decision-making&lt;/strong&gt; for stroke survivors, promoting independence in managing their health. Future iterations will refine the system through usability testing and clinical validation.&lt;/p&gt;
+&lt;h3 id=&#34;featured-outputs&#34;&gt;Featured Outputs&lt;/h3&gt;
+&lt;p&gt;📓 - &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, T. Neate, D. Wyatt, S. Rowland-Coomber, M. Chapman, I. Marshall, C. Wolfe, V. Curcin.&lt;br&gt;
+&amp;ldquo;A Preliminary Case Study of Developing A Web-based Digital Portal for Stroke Survivors using Synthetic Personal Health Data.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;The 12th IEEE International Conference on Healthcare Informatics (IEEE ICHI 2024)&lt;/em&gt;, 2024.&lt;/p&gt;
+&lt;p&gt;📓- &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, T. Neate, D. Wyatt, S. Rowland-Coomber, M. Chapman, I. Marshall, C. Wolfe, V. Curcin.&lt;br&gt;
+&amp;ldquo;Co-designing a User-Centred Digital Portal to Support Health-related Self-management for Stroke Survivors.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;The 12th IEEE International Conference on Healthcare Informatics (IEEE ICHI 2024)&lt;/em&gt;, 2024.&lt;/p&gt;
+&lt;p&gt;📓- &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, D. Wyatt, S. Rowland-Coomber, T. Neate, M. Chapman, V. Curcin, I. Marshall, C. Wolfe.&lt;br&gt;
+&amp;ldquo;From Insights to Empowerment: Co-designing a Data-driven Self-management Patient Portal for Stroke Survivors with Integrated Knowledge Translation.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;2023 UK Stroke Forum, Birmingham, UK&lt;/em&gt;, December 2023.&lt;/p&gt;
+&lt;p&gt;📓- &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, T. Neate, I. Marshall, M. Chapman, V. Curcin.&lt;br&gt;
+&amp;ldquo;Designing User-Centred Patient Portals for Stroke Patients: Challenges in Accessibility, Engagement, and Interpretability.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;CHI’23 Workshop on Intelligent Data-Driven Health Interfaces&lt;/em&gt;, April 2022.&lt;/p&gt;
+&lt;p&gt;📓-  Hendrik Knoche, Alfie Abdul-Rahman, Leigh Clark, Vasa Curcin, &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, et al.&lt;br&gt;
+&amp;ldquo;Identifying Challenges and Opportunities for Intelligent Data-Driven Health Interfaces to Support Ongoing Care.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems&lt;/em&gt;, pp. 1-7, 2023.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Leveragign AI to improve healthcare of critically ill children during transport to a higher level of care</title>
+      <link>https://example.com/project/cats/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/cats/</guid>
+      <description>&lt;h2 id=&#34;dynamic-mortality-prediction-in-critically-ill-children-during-inter-hospital-transports&#34;&gt;Dynamic Mortality Prediction in Critically Ill Children During Inter-Hospital Transports&lt;/h2&gt;
+&lt;h3 id=&#34;collaboration--partners&#34;&gt;🙏Collaboration &amp;amp; Partners&lt;/h3&gt;
+&lt;p&gt;This project is collaboration between &lt;a href=&#34;https://cats.nhs.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Children&amp;rsquo;s Acute Transport team&lt;/a&gt;, &lt;a href=&#34;https://www.gosh.nhs.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Great Ormand Street Hospital&lt;/a&gt;, &lt;a href=&#34;https://www.ucl.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University College London&lt;/a&gt; and &lt;a href=&#34;https://www.imperial.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Imperial College London&lt;/a&gt;, and a industry partner, &lt;a href=&#34;https://kinseed.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kinseed Company&lt;/a&gt; in the UK.&lt;/p&gt;
+&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;
+&lt;p&gt;Pediatric intensive care unit (PICU) transfers involve critically ill children requiring specialized medical intervention. However, inter-hospital transport poses significant risks, including deterioration due to unstable vital signs, equipment limitations, and delays in care. In the UK alone, thousands of pediatric patients are transferred each year, and timely risk assessment is critical to improving survival outcomes. Despite advancements in monitoring technology, there remains a gap in &lt;strong&gt;real-time mortality prediction models&lt;/strong&gt; tailored to the transport setting.&lt;/p&gt;
+&lt;h3 id=&#34;objective&#34;&gt;Objective&lt;/h3&gt;
+&lt;p&gt;This study introduces &lt;strong&gt;PROMPT (Patient-centred Real-time Outcome Monitoring and Mortality Prediction Tool)&lt;/strong&gt;, a machine learning-based framework designed to provide &lt;strong&gt;dynamic mortality predictions&lt;/strong&gt; during pediatric inter-hospital transport. The model integrates &lt;strong&gt;high-frequency time-series vital signs, clinical history, and transport-specific parameters&lt;/strong&gt; to assess mortality risk throughout the transfer period. The system employs &lt;strong&gt;explainable AI (SHAP - SHapley Additive exPlanations)&lt;/strong&gt; to enhance transparency and provide actionable insights for clinicians.&lt;/p&gt;
+&lt;h3 id=&#34;key-features&#34;&gt;Key Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Real-Time Mortality Prediction&lt;/strong&gt; – Continuously updates risk scores during patient transport to assist in clinical decision-making.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integration of Transport-Specific Data&lt;/strong&gt; – Factors in ventilation status, medication usage, and transport duration to improve predictive accuracy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Explainable AI (SHAP) for Interpretability&lt;/strong&gt; – Provides insights into contributing risk factors, ensuring trust and usability in clinical practice.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;impact&#34;&gt;Impact&lt;/h3&gt;
+&lt;p&gt;The &lt;strong&gt;PROMPT system&lt;/strong&gt; empowers clinicians with real-time, data-driven decision support, enhancing &lt;strong&gt;situational awareness and patient safety&lt;/strong&gt; during transport. By leveraging machine learning and continuous vital sign monitoring, this approach has the potential to &lt;strong&gt;optimize resource allocation, and improve transport protocols&lt;/strong&gt; for critically ill children. Future research will focus on &lt;strong&gt;prospective validation and clinical integration&lt;/strong&gt; to further refine model accuracy and adoption in healthcare settings.&lt;/p&gt;
+&lt;h3 id=&#34;featured-outputs&#34;&gt;Featured Outputs&lt;/h3&gt;
+&lt;p&gt;📓 - &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, John Booth, Thomas Monks, Philip Knight, Liam Watson, Mark Peters, Christina Pagel, Padmanabhan Ramnarayan, Kezhi Li.&lt;br&gt;
+&amp;ldquo;Dynamic Mortality Prediction in Critically Ill Children during Inter-hospital Transports to PICUs Using Explainable AI.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;npj Digital Medicine&lt;/em&gt; (5-year IF: 15.2), ACCEPTED, Jan. 2025.&lt;/p&gt;
+&lt;p&gt;📓 - &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, John Booth, Thomas Monks, Philip Knight, Liam Watson, Mark Peters, Christina Pagel, Padmanabhan Ramnarayan, Kezhi Li.&lt;br&gt;
+&amp;ldquo;Distribution and Trajectory of Vital Signs from High-Frequency Continuous Monitoring during Pediatric Critical Care Transport.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;Intensive Care Medicine – Paediatric and Neonatal (ICMPN)&lt;/em&gt;, 2023.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data-driven Health Monitoring and Fault Diagnosis of Industrial Machinery Systems</title>
+      <link>https://example.com/project/machinefaultdiagnosis/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/machinefaultdiagnosis/</guid>
+      <description>&lt;h3 id=&#34;collaboration--partners&#34;&gt;🙏Collaboration &amp;amp; Partners&lt;/h3&gt;
+&lt;p&gt;This project is collaboration between &lt;a href=&#34;https://www.lincoln.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Lincoln&lt;/a&gt;, &lt;a href=&#34;https://sites.google.com/view/leishu/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nanjing Agricultural University&lt;/a&gt;, Guangdong University of Petrochemical Technology.&lt;/p&gt;
+&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;
+&lt;p&gt;Industrial rotating machinery, such as &lt;strong&gt;gas turbines and multi-stage centrifugal air pumps&lt;/strong&gt;, plays a critical role in various industries. However, unexpected failures can lead to &lt;strong&gt;operational downtime, increased maintenance costs, and potential safety hazards&lt;/strong&gt;. Traditional fault diagnosis approaches rely heavily on scheduled maintenance and manual inspections, which may &lt;strong&gt;fail to detect incipient faults early enough&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;With advancements in &lt;strong&gt;data-driven techniques and AI&lt;/strong&gt;, there is a growing opportunity to leverage &lt;strong&gt;real-time condition monitoring and predictive analytics&lt;/strong&gt; to enhance &lt;strong&gt;machine reliability and fault detection&lt;/strong&gt;. This project focuses on developing an &lt;strong&gt;intelligent health monitoring system&lt;/strong&gt; to proactively diagnose machinery faults and predict potential failures.&lt;/p&gt;
+&lt;h3 id=&#34;objective&#34;&gt;Objective&lt;/h3&gt;
+&lt;p&gt;This project aims to &lt;strong&gt;design and deploy a data-driven condition monitoring system&lt;/strong&gt; for industrial machinery to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Detect &lt;strong&gt;incipient faults early&lt;/strong&gt; and prevent catastrophic failures.&lt;/li&gt;
+&lt;li&gt;Apply &lt;strong&gt;advanced signal processing and machine learning models&lt;/strong&gt; to analyze machine health states.&lt;/li&gt;
+&lt;li&gt;Improve &lt;strong&gt;decision-making processes&lt;/strong&gt; for industrial maintenance teams.&lt;/li&gt;
+&lt;li&gt;Optimize &lt;strong&gt;predictive maintenance strategies&lt;/strong&gt;, reducing unplanned downtime.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;key-features&#34;&gt;Key Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Condition Monitoring System Deployment&lt;/strong&gt; – Installation of &lt;strong&gt;sensors and IoT-based solutions&lt;/strong&gt; for real-time data collection.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fault Diagnosis using AI&lt;/strong&gt; – Development of &lt;strong&gt;machine learning-based anomaly detection and classification models&lt;/strong&gt; for fault identification.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data-Driven Insights&lt;/strong&gt; – Analysis of &lt;strong&gt;vibration, acoustic, and temperature data&lt;/strong&gt; to assess machine health.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Predictive Maintenance Planning&lt;/strong&gt; – Integration of &lt;strong&gt;early warning systems&lt;/strong&gt; to trigger maintenance before severe damage occurs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Decision-Support System&lt;/strong&gt; – Implementation of &lt;strong&gt;automated alerts and visual dashboards&lt;/strong&gt; for engineers and operators.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;impact&#34;&gt;Impact&lt;/h3&gt;
+&lt;p&gt;This project enhances &lt;strong&gt;industrial reliability, operational efficiency, and maintenance strategies&lt;/strong&gt; by transitioning from traditional reactive maintenance to &lt;strong&gt;proactive, AI-driven diagnostics&lt;/strong&gt;. By applying &lt;strong&gt;data-driven fault diagnosis and predictive modeling&lt;/strong&gt;, industries can &lt;strong&gt;reduce maintenance costs, extend equipment lifespan, and ensure safer operations&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Future research will focus on &lt;strong&gt;real-time deployment, system scalability, and continuous learning AI models&lt;/strong&gt; for enhanced fault prediction accuracy.&lt;/p&gt;
+&lt;h3 id=&#34;featured-outputs&#34;&gt;Featured Outputs&lt;/h3&gt;
+&lt;p&gt;📓- &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, Miguel Martínez-García, Yu Zhang, Lei Shu.&lt;br&gt;
+&amp;ldquo;A Multi-sensor Information Fusion Method for High-Reliability Fault Diagnosis of Rotating Machinery.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Instrumentation and Measurement&lt;/em&gt; (5-year IF: 5.6), 2021.&lt;/p&gt;
+&lt;p&gt;📓- &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, Miguel Martínez-García, Yu Zhang, Ruqiang Yan, Lei Shu.&lt;br&gt;
+&amp;ldquo;Entropy Measures in Machine Fault Diagnosis: Insights and Applications.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Instrumentation and Measurement&lt;/em&gt; (5-year IF: 5.6), 69(6), 2607-2620, 2020.&lt;/p&gt;
+&lt;p&gt;📓- &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, Yu Zhang, Gbanaibolou Jombo, Lei Shu.&lt;br&gt;
+&amp;ldquo;Adaptive Multiscale Weighted Permutation Entropy for Rolling Bearing Fault Diagnosis.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;IEEE Access&lt;/em&gt; (5-year IF: 3.7), 8, 87529 – 87540, 2020.&lt;/p&gt;
+&lt;p&gt;📓- &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, Yu Zhang, Pierre Francq, Lei Shu, Jianfeng Huang.&lt;br&gt;
+&amp;ldquo;Incipient Fault Diagnosis of Roller Bearing using Optimized Wavelet Transform based Multi-speed Vibration Signatures.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;IEEE Access&lt;/em&gt; (5-year IF: 3.7), 5, 19442-19456, 2017.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

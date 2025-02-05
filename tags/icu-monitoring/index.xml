@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICU Monitoring | Zhiqiang Huo Profile</title>
+    <link>https://example.com/tags/icu-monitoring/</link>
+      <atom:link href="https://example.com/tags/icu-monitoring/index.xml" rel="self" type="application/rss+xml" />
+    <description>ICU Monitoring</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/logo.svg</url>
+      <title>ICU Monitoring</title>
+      <link>https://example.com/tags/icu-monitoring/</link>
+    </image>
+    
+    <item>
+      <title>Published in Intensive Care Medicine – Paediatric and Neonatal: High-Frequency Vital Signs Monitoring in Critically Ill Children</title>
+      <link>https://example.com/publication/icm-pn-journal/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/icm-pn-journal/</guid>
+      <description>&lt;h2 id=&#34;-research-published-in-intensive-care-medicine--paediatric-and-neonatal&#34;&gt;🎉 Research Published in &lt;em&gt;Intensive Care Medicine – Paediatric and Neonatal&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;We are pleased to announce that our latest study has been &lt;strong&gt;published&lt;/strong&gt; in &lt;em&gt;Intensive Care Medicine – Paediatric and Neonatal&lt;/em&gt;. This research, titled &lt;strong&gt;&amp;ldquo;Distribution and Trajectory of Vital Signs from High-Frequency Continuous Monitoring in Critically Ill Children,&amp;rdquo;&lt;/strong&gt; provides &lt;strong&gt;new insights into pediatric intensive care&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;-key-findings&#34;&gt;🔬 Key Findings&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Investigates &lt;strong&gt;high-frequency vital sign monitoring&lt;/strong&gt; in critically ill children.&lt;/li&gt;
+&lt;li&gt;Analyzes &lt;strong&gt;physiological trajectories&lt;/strong&gt; to support &lt;strong&gt;early clinical interventions&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Offers &lt;strong&gt;data-driven insights&lt;/strong&gt; to enhance &lt;strong&gt;real-time patient monitoring in pediatric ICUs&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This study contributes to advancing &lt;strong&gt;digital health solutions&lt;/strong&gt; for pediatric critical care, aiming to support &lt;strong&gt;clinicians in making informed decisions&lt;/strong&gt; for better patient outcomes.&lt;/p&gt;
+&lt;h3 id=&#34;-acknowledgments&#34;&gt;🙌 Acknowledgments&lt;/h3&gt;
+&lt;p&gt;A huge thank you to our &lt;strong&gt;collaborators and participating institutions&lt;/strong&gt; for their dedication to this important research. Their support has been invaluable in driving innovation in &lt;strong&gt;pediatric intensive care&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;📄 &lt;strong&gt;Read the full article here:&lt;/strong&gt; &lt;a href=&#34;https://link.springer.com/article/10.1007/s44253-023-00018-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Springer Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;🚀 &lt;strong&gt;Looking forward to further advancements in pediatric health informatics!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
