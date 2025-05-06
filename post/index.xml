@@ -2,21 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Zhiqiang Huo Profile</title>
-    <link>http://localhost:12416/post/</link>
-      <atom:link href="http://localhost:12416/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:12653/post/</link>
+      <atom:link href="http://localhost:12653/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:12416/media/logo.svg</url>
+      <url>http://localhost:12653/media/logo.svg</url>
       <title>Blog</title>
-      <link>http://localhost:12416/post/</link>
+      <link>http://localhost:12653/post/</link>
     </image>
     
     <item>
+      <title>🚀 Mentoring at the 2025 Harvard HSIL Hackathon – London Hub</title>
+      <link>http://localhost:12653/post/harward-hackson-2025/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:12653/post/harward-hackson-2025/</guid>
+      <description>&lt;h2 id=&#34;mentoring-at-the-2025-harvard-hsil-hackathon--london-hub-&#34;&gt;Mentoring at the &lt;strong&gt;2025 Harvard HSIL Hackathon – London Hub&lt;/strong&gt; 🌍&lt;/h2&gt;
+&lt;p&gt;I was honored to serve as a &lt;strong&gt;local mentor and judge&lt;/strong&gt; at the &lt;strong&gt;2025 Harvard HSIL Hackathon – London Hub&lt;/strong&gt;, held on &lt;strong&gt;April 11–12&lt;/strong&gt;. This dynamic event, led by &lt;strong&gt;Prof. Josip Car&lt;/strong&gt; and organized by &lt;strong&gt;Dr. Lei Lu&lt;/strong&gt;, brought together &lt;strong&gt;19 global hubs across 18 countries&lt;/strong&gt; to address critical healthcare system challenges under the theme &lt;em&gt;“Building High-Value Health Systems: Leveraging Artificial Intelligence”&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;As part of the &lt;strong&gt;London Hub&lt;/strong&gt;, I had the privilege to guide and evaluate outstanding student teams from top institutions including &lt;strong&gt;Oxford, Cambridge, Imperial, UCL, KCL, LSHTM&lt;/strong&gt;, and more. The energy, creativity, and collaborative spirit displayed during the hackathon were truly inspiring.&lt;/p&gt;
+&lt;h3 id=&#34;tackling-key-health-challenges-&#34;&gt;Tackling Key Health Challenges 💡&lt;/h3&gt;
+&lt;p&gt;Over two intensive days, teams designed AI-powered solutions focused on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;❤️ Cardiovascular Disease&lt;/li&gt;
+&lt;li&gt;🧠 Mental Health&lt;/li&gt;
+&lt;li&gt;🤰 Maternal Health&lt;/li&gt;
+&lt;li&gt;📚 Health Literacy&lt;/li&gt;
+&lt;li&gt;👩‍⚕️ Healthcare Workforce Shortages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It was incredibly rewarding to see participants engage in meaningful problem-solving, supported by mentorship and rapid iteration.&lt;/p&gt;
+&lt;h3 id=&#34;congratulations-to-the-winning-teams-&#34;&gt;Congratulations to the Winning Teams 🏆&lt;/h3&gt;
+&lt;p&gt;I extend my warmest congratulations to the two winning teams for their visionary approaches to global health issues:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Adriana Taurinskaite, Prakhar Vats, Vikas Vyas&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Avni Jambholkar, Bharti Devi, Henry Holms, Hyunhee Lee, Joana Teixeira&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Their projects reflected a deep understanding of both technical innovation and real-world impact.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;acknowledging-the-community-&#34;&gt;Acknowledging the Community 💬&lt;/h3&gt;
+&lt;p&gt;Special thanks to the incredible organizing team and fellow mentors, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hanbin Yu, Pauline Lee, Mengzhe Xu, Tapabrata Rohan Chakraborty, Dregan Alexandru&lt;/strong&gt;, and &lt;strong&gt;Dr. Lei Lu&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Our inspirational speakers: &lt;strong&gt;Hayley Ormandy&lt;/strong&gt; and &lt;strong&gt;Joseph Casey&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;And the support from &lt;strong&gt;King’s College London’s School of Life Course &amp;amp; Population Sciences&lt;/strong&gt; and &lt;strong&gt;King’s Population Health Institute&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;💖 Grateful appreciation also goes to &lt;strong&gt;Prof. Rifat Atun&lt;/strong&gt; and the &lt;strong&gt;Harvard team&lt;/strong&gt; for providing this global platform to foster impactful innovation and collaboration.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>🎖 Honored as an Outstanding Reviewer of 2024 by IEEE TIM</title>
-      <link>http://localhost:12416/post/tim_outstanding_reviewer/</link>
+      <link>http://localhost:12653/post/tim_outstanding_reviewer/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:12416/post/tim_outstanding_reviewer/</guid>
+      <guid>http://localhost:12653/post/tim_outstanding_reviewer/</guid>
       <description>&lt;h2 id=&#34;recognition-as-an-outstanding-reviewer-of-2024&#34;&gt;Recognition as an &lt;strong&gt;Outstanding Reviewer of 2024&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;I am honored to be recognized as an &lt;strong&gt;Outstanding Reviewer of 2024&lt;/strong&gt; by the &lt;strong&gt;IEEE Transactions on Instrumentation and Measurement (TIM)&lt;/strong&gt;. This award highlights my contributions to &lt;strong&gt;rigorous and constructive peer review&lt;/strong&gt;, ensuring the publication of high-quality research in &lt;strong&gt;instrumentation, measurement, and intelligent systems&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;IEEE TIM&lt;/strong&gt; is a leading journal covering &lt;strong&gt;advanced measurement techniques, sensor technology, and AI-driven industrial solutions&lt;/strong&gt;. As a reviewer, I am committed to &lt;strong&gt;upholding academic integrity&lt;/strong&gt; and &lt;strong&gt;helping researchers refine their work through insightful feedback&lt;/strong&gt;.&lt;/p&gt;
@@ -27,9 +64,9 @@
     
     <item>
       <title>🏆 Best Paper Award at IEEE ICHI 2024!</title>
-      <link>http://localhost:12416/post/best-paper-award-chi/</link>
+      <link>http://localhost:12653/post/best-paper-award-chi/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:12416/post/best-paper-award-chi/</guid>
+      <guid>http://localhost:12653/post/best-paper-award-chi/</guid>
       <description>&lt;h2 id=&#34;-exciting-news&#34;&gt;🎉 Exciting News!&lt;/h2&gt;
 &lt;p&gt;We are thrilled to share that our team at &lt;strong&gt;King’s College London (KCL)&lt;/strong&gt; has received the &lt;strong&gt;Best Paper Award&lt;/strong&gt; at this year’s &lt;strong&gt;International Conference on Health Informatics (ICHI 2024)!&lt;/strong&gt; This recognition highlights our commitment to leveraging &lt;strong&gt;digital technology to improve the lives of stroke survivors in London&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;-our-research-a-web3-based-patient-portal&#34;&gt;🏥 Our Research: A Web3-Based Patient Portal&lt;/h2&gt;
@@ -47,44 +84,6 @@
 &lt;/ul&gt;
 &lt;p&gt;A special thanks to the &lt;strong&gt;ICHI 2024 General Chairs&lt;/strong&gt;, especially &lt;strong&gt;@Zhe He&lt;/strong&gt;, for providing us with an excellent platform to present our research. Also, a huge appreciation to &lt;strong&gt;Davide Ferrari, PhD(c)&lt;/strong&gt; for accepting the award on behalf of our team!&lt;/p&gt;
 &lt;p&gt;🚀 &lt;strong&gt;We look forward to continuing our research and driving innovation in digital health!&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:12416/post/harward-hackson-2025/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:12416/post/harward-hackson-2025/</guid>
-      <description>&lt;p&gt;Successful Conclusion of the 2025 Harvard HSIL Hackathon – London Hub
-I am thrilled to announce the successful conclusion of the 2025 Harvard HSIL Hackathon – London Hub, held on April 11–12! 🇬🇧🎉 Led by Prof. Josip Car and organized by Dr. Lei Lu, the London Hub proudly joined 19 global hubs from 18 countries 🌍 to tackle pressing challenges in healthcare systems.&lt;/p&gt;
-&lt;p&gt;This year’s theme, “Building High-Value Health Systems: Leveraging Artificial Intelligence”, brought together brilliant minds from academia, healthcare, and industry. Passionate students from prestigious institutions such as Oxford, Cambridge, Edinburgh, and leading London universities like Imperial, UCL, KCL, LSE, LSHTM, Greenwich, and more, participated in this event. 👏&lt;/p&gt;
-&lt;p&gt;Over two intense days of collaboration and problem-solving, our teams developed innovative AI-driven solutions to address:&lt;/p&gt;
-&lt;p&gt;❤️ Cardiovascular Disease
-🧠 Mental Health Disorders
-🤰 Maternal Health
-📚 Health Literacy
-👩‍⚕️ Workforce Shortages
-🌟 Huge congratulations to our two winning teams:&lt;/p&gt;
-&lt;p&gt;🏆 Adriana Taurinskaite, Prakhar Vats, Vikas Vyas
-🏆 Avni Jambholkar, Bharti Devi, Henry Holms, Hyunhee Lee, Joana Teixeira
-for their innovative and transformative ideas addressing critical global health challenges! 🙌&lt;/p&gt;
-&lt;p&gt;Special Thanks 🙏
-A heartfelt thank you to our fantastic mentors and judges:&lt;/p&gt;
-&lt;p&gt;Dregan Alexandru
-Tapabrata Rohan Chakraborty
-Zhiqiang Huo
-Mengzhe Xu
-Lei Lu
-Our inspiring speakers:&lt;/p&gt;
-&lt;p&gt;Hayley Ormandy
-Joseph Casey
-Our amazing organizing team:&lt;/p&gt;
-&lt;p&gt;Hanbin Yu
-Pauline Lee
-And to the incredible support from the School of Life Course &amp;amp; Population Sciences and King’s Population Health Institute at King’s College London.&lt;/p&gt;
-&lt;p&gt;💖 Special thanks to Prof. Rifat Atun, Caroline, Jake, and other dedicated Harvard colleagues for providing this fantastic global platform — nurturing creativity, purpose, and impact-driven innovation in healthcare! 🌐🩺&lt;/p&gt;
-&lt;p&gt;Looking Forward 🚀
-We look forward to continuing our engagement with the Harvard HSIL Hackathon and supporting the global research community by contributing to innovation in healthcare systems through artificial intelligence.&lt;/p&gt;
 </description>
     </item>
     
