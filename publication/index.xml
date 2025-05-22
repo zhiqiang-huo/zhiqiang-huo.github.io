@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Zhiqiang Huo Profile</title>
-    <link>http://localhost:4997/publication/</link>
-      <atom:link href="http://localhost:4997/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:11970/publication/</link>
+      <atom:link href="http://localhost:11970/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4997/media/logo.svg</url>
+      <url>http://localhost:11970/media/logo.svg</url>
       <title>Publications</title>
-      <link>http://localhost:4997/publication/</link>
+      <link>http://localhost:11970/publication/</link>
     </image>
     
     <item>
       <title>Dynamic Mortality Prediction in Critically Ill Children During Interhospital Transports Using Explainable AI</title>
-      <link>http://localhost:4997/publication/npj_digital_medicine/</link>
+      <link>http://localhost:11970/publication/npj_digital_medicine/</link>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4997/publication/npj_digital_medicine/</guid>
+      <guid>http://localhost:11970/publication/npj_digital_medicine/</guid>
       <description>&lt;h2 id=&#34;-ai-driven-mortality-prediction-for-interhospital-transport-in-pediatric-intensive-care&#34;&gt;🚑 AI-Driven Mortality Prediction for Interhospital Transport in Pediatric Intensive Care&lt;/h2&gt;
 &lt;p&gt;We are thrilled to share our latest research on &lt;strong&gt;real-time mortality risk prediction&lt;/strong&gt; in critically ill children during &lt;strong&gt;interhospital transport&lt;/strong&gt; to &lt;strong&gt;paediatric intensive care units (PICUs)&lt;/strong&gt;. This study, published in &lt;em&gt;npj Digital Medicine&lt;/em&gt;, introduces an &lt;strong&gt;explainable AI-powered model&lt;/strong&gt; designed to enhance &lt;strong&gt;clinical decision-making&lt;/strong&gt; in transport medicine.&lt;/p&gt;
 &lt;h3 id=&#34;-key-findings&#34;&gt;🔬 Key Findings&lt;/h3&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>Published in Intensive Care Medicine – Paediatric and Neonatal: High-Frequency Vital Signs Monitoring in Critically Ill Children</title>
-      <link>http://localhost:4997/publication/icm-pn-journal/</link>
+      <link>http://localhost:11970/publication/icm-pn-journal/</link>
       <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4997/publication/icm-pn-journal/</guid>
+      <guid>http://localhost:11970/publication/icm-pn-journal/</guid>
       <description>&lt;h2 id=&#34;-research-published-in-intensive-care-medicine--paediatric-and-neonatal&#34;&gt;🎉 Research Published in &lt;em&gt;Intensive Care Medicine – Paediatric and Neonatal&lt;/em&gt;&lt;/h2&gt;
 &lt;p&gt;We are pleased to announce that our latest study has been &lt;strong&gt;published&lt;/strong&gt; in &lt;em&gt;Intensive Care Medicine – Paediatric and Neonatal&lt;/em&gt;. This research, titled &lt;strong&gt;&amp;ldquo;Distribution and Trajectory of Vital Signs from High-Frequency Continuous Monitoring in Critically Ill Children,&amp;rdquo;&lt;/strong&gt; provides &lt;strong&gt;new insights into pediatric intensive care&lt;/strong&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;-key-findings&#34;&gt;🔬 Key Findings&lt;/h3&gt;
@@ -55,9 +55,9 @@
     
     <item>
       <title>An example journal article</title>
-      <link>http://localhost:4997/publication/journal-article/</link>
+      <link>http://localhost:11970/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4997/publication/journal-article/</guid>
+      <guid>http://localhost:11970/publication/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -76,9 +76,9 @@
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:4997/publication/conference-paper/</link>
+      <link>http://localhost:11970/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4997/publication/conference-paper/</guid>
+      <guid>http://localhost:11970/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;

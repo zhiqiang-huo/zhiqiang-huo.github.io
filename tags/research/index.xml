@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research | Zhiqiang Huo Profile</title>
-    <link>http://localhost:4997/tags/research/</link>
-      <atom:link href="http://localhost:4997/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:11970/tags/research/</link>
+      <atom:link href="http://localhost:11970/tags/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4997/media/logo.svg</url>
+      <url>http://localhost:11970/media/logo.svg</url>
       <title>Research</title>
-      <link>http://localhost:4997/tags/research/</link>
+      <link>http://localhost:11970/tags/research/</link>
     </image>
     
     <item>
       <title>🎖 Honored as an Outstanding Reviewer of 2024 by IEEE TIM</title>
-      <link>http://localhost:4997/post/tim_outstanding_reviewer/</link>
+      <link>http://localhost:11970/post/tim_outstanding_reviewer/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4997/post/tim_outstanding_reviewer/</guid>
+      <guid>http://localhost:11970/post/tim_outstanding_reviewer/</guid>
       <description>&lt;h2 id=&#34;recognition-as-an-outstanding-reviewer-of-2024&#34;&gt;Recognition as an &lt;strong&gt;Outstanding Reviewer of 2024&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;I am honored to be recognized as an &lt;strong&gt;Outstanding Reviewer of 2024&lt;/strong&gt; by the &lt;strong&gt;IEEE Transactions on Instrumentation and Measurement (TIM)&lt;/strong&gt;. This award highlights my contributions to &lt;strong&gt;rigorous and constructive peer review&lt;/strong&gt;, ensuring the publication of high-quality research in &lt;strong&gt;instrumentation, measurement, and intelligent systems&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;IEEE TIM&lt;/strong&gt; is a leading journal covering &lt;strong&gt;advanced measurement techniques, sensor technology, and AI-driven industrial solutions&lt;/strong&gt;. As a reviewer, I am committed to &lt;strong&gt;upholding academic integrity&lt;/strong&gt; and &lt;strong&gt;helping researchers refine their work through insightful feedback&lt;/strong&gt;.&lt;/p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>🏆 Best Paper Award at IEEE ICHI 2024!</title>
-      <link>http://localhost:4997/post/best-paper-award-chi/</link>
+      <link>http://localhost:11970/post/best-paper-award-chi/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4997/post/best-paper-award-chi/</guid>
+      <guid>http://localhost:11970/post/best-paper-award-chi/</guid>
       <description>&lt;h2 id=&#34;-exciting-news&#34;&gt;🎉 Exciting News!&lt;/h2&gt;
 &lt;p&gt;We are thrilled to share that our team at &lt;strong&gt;King’s College London (KCL)&lt;/strong&gt; has received the &lt;strong&gt;Best Paper Award&lt;/strong&gt; at this year’s &lt;strong&gt;International Conference on Health Informatics (ICHI 2024)!&lt;/strong&gt; This recognition highlights our commitment to leveraging &lt;strong&gt;digital technology to improve the lives of stroke survivors in London&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;-our-research-a-web3-based-patient-portal&#34;&gt;🏥 Our Research: A Web3-Based Patient Portal&lt;/h2&gt;

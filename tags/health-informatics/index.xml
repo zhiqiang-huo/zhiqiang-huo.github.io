@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Health Informatics | Zhiqiang Huo Profile</title>
-    <link>http://localhost:4997/tags/health-informatics/</link>
-      <atom:link href="http://localhost:4997/tags/health-informatics/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:11970/tags/health-informatics/</link>
+      <atom:link href="http://localhost:11970/tags/health-informatics/index.xml" rel="self" type="application/rss+xml" />
     <description>Health Informatics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4997/media/logo.svg</url>
+      <url>http://localhost:11970/media/logo.svg</url>
       <title>Health Informatics</title>
-      <link>http://localhost:4997/tags/health-informatics/</link>
+      <link>http://localhost:11970/tags/health-informatics/</link>
     </image>
     
     <item>
       <title>🏆 Best Paper Award at IEEE ICHI 2024!</title>
-      <link>http://localhost:4997/post/best-paper-award-chi/</link>
+      <link>http://localhost:11970/post/best-paper-award-chi/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4997/post/best-paper-award-chi/</guid>
+      <guid>http://localhost:11970/post/best-paper-award-chi/</guid>
       <description>&lt;h2 id=&#34;-exciting-news&#34;&gt;🎉 Exciting News!&lt;/h2&gt;
 &lt;p&gt;We are thrilled to share that our team at &lt;strong&gt;King’s College London (KCL)&lt;/strong&gt; has received the &lt;strong&gt;Best Paper Award&lt;/strong&gt; at this year’s &lt;strong&gt;International Conference on Health Informatics (ICHI 2024)!&lt;/strong&gt; This recognition highlights our commitment to leveraging &lt;strong&gt;digital technology to improve the lives of stroke survivors in London&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;-our-research-a-web3-based-patient-portal&#34;&gt;🏥 Our Research: A Web3-Based Patient Portal&lt;/h2&gt;
