@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slef-Management | Zhiqiang Huo Profile</title>
-    <link>http://localhost:5830/tags/slef-management/</link>
-      <atom:link href="http://localhost:5830/tags/slef-management/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:12332/tags/slef-management/</link>
+      <atom:link href="http://localhost:12332/tags/slef-management/index.xml" rel="self" type="application/rss+xml" />
     <description>Slef-Management</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:5830/media/logo.svg</url>
+      <url>http://localhost:12332/media/logo.svg</url>
       <title>Slef-Management</title>
-      <link>http://localhost:5830/tags/slef-management/</link>
+      <link>http://localhost:12332/tags/slef-management/</link>
     </image>
     
     <item>
       <title>Co-designing a User-Centred Digital Portal for Stroke Survivors</title>
-      <link>http://localhost:5830/project/patientportal/</link>
+      <link>http://localhost:12332/project/patientportal/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:5830/project/patientportal/</guid>
+      <guid>http://localhost:12332/project/patientportal/</guid>
       <description>&lt;h2 id=&#34;co-designing-a-user-centred-digital-portal-for-stroke-survivors&#34;&gt;Co-designing a User-Centred Digital Portal for Stroke Survivors&lt;/h2&gt;
 &lt;h3 id=&#34;collaboration--partners&#34;&gt;🙏Collaboration &amp;amp; Partners&lt;/h3&gt;
 &lt;p&gt;This project is collaboration between &lt;a href=&#34;https://kcl.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;King&amp;rsquo;s College Lonodn&lt;/a&gt;, NHS, and &lt;a href=&#34;https://www.guysandstthomas.nhs.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guy&amp;rsquo;s and St Thomas&amp;rsquo; NHS Foundation Trust&lt;/a&gt;.&lt;/p&gt;
