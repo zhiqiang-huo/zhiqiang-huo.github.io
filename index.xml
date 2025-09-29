@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhiqiang Huo Profile</title>
-    <link>http://localhost:3061/</link>
-      <atom:link href="http://localhost:3061/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:3408/</link>
+      <atom:link href="http://localhost:3408/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhiqiang Huo Profile</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:3061/media/logo.svg</url>
+      <url>http://localhost:3408/media/logo.svg</url>
       <title>Zhiqiang Huo Profile</title>
-      <link>http://localhost:3061/</link>
+      <link>http://localhost:3408/</link>
     </image>
     
     <item>
       <title>Publications</title>
-      <link>http://localhost:3061/mypublication/</link>
+      <link>http://localhost:3408/mypublication/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/mypublication/</guid>
+      <guid>http://localhost:3408/mypublication/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;font-size: 15px;&#34;&gt;Full publications can be found on my &lt;a href=&#34;https://scholar.google.co.uk/citations?user=bWhQDmwAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;. &lt;/span&gt;&lt;/p&gt;
 &lt;div style=&#34;font-size: 15px;&#34;&gt;
 &lt;h2 id=&#34;-journal-articles&#34;&gt;&lt;strong&gt;📓 Journal Articles&lt;/strong&gt;&lt;/h2&gt;
@@ -24,7 +24,7 @@
 &lt;li&gt;
 &lt;p&gt;Milan Kapur, Kezhi Li, Alexander Brown, &lt;strong&gt;Zhiqiang Huo&lt;/strong&gt;, Philip Knight, Gwyneth Davies, Padmanabhan Ramnarayan.
 &amp;ldquo;Identification of physiological adverse events using continuous vital signs monitoring during paediatric critical care transport: a novel data-driven approach&amp;rdquo;
-ACEEPTED, &lt;em&gt;PLOS Digital Health&lt;/em&gt;, Sept 2025.&lt;/p&gt;
+&lt;em&gt;PLOS Digital Health&lt;/em&gt;, 4(9), Sept. 2025.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Weijiao Mou, Cheng Yang, Waiping Shan, Chenzhen Du, Zhiqiang Huo, Haotian Gu, David G. Armstrong, Dongfeng Tang, Yanzhong Wang, Wuquan Deng. &amp;ldquo;An Interpretable Machine Learning Model for Predicting Recurrence Risk in Patients with Diabetic Foot Ulcers: A Multicenter Cohort Study&amp;rdquo; &lt;em&gt;BMJ Open Diabetes &amp;amp; Research Care&lt;/em&gt;, SUBMITTED, April 2025&lt;/p&gt;
@@ -191,9 +191,9 @@ ACEEPTED, &lt;em&gt;PLOS Digital Health&lt;/em&gt;, Sept 2025.&lt;/p&gt;
     
     <item>
       <title>Services</title>
-      <link>http://localhost:3061/services/</link>
+      <link>http://localhost:3408/services/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/services/</guid>
+      <guid>http://localhost:3408/services/</guid>
       <description>&lt;h3 id=&#34;-public-engagement&#34;&gt;🚃 Public Engagement&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Mentor &amp;amp; Judge&lt;/strong&gt;
@@ -290,9 +290,9 @@ ACEEPTED, &lt;em&gt;PLOS Digital Health&lt;/em&gt;, Sept 2025.&lt;/p&gt;
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:3061/event/example/</link>
+      <link>http://localhost:3408/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/event/example/</guid>
+      <guid>http://localhost:3408/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -311,9 +311,9 @@ ACEEPTED, &lt;em&gt;PLOS Digital Health&lt;/em&gt;, Sept 2025.&lt;/p&gt;
     
     <item>
       <title>🚀 Mentoring at the 2025 Harvard HSIL Hackathon – London Hub</title>
-      <link>http://localhost:3061/post/harward-hackson-2025/</link>
+      <link>http://localhost:3408/post/harward-hackson-2025/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/post/harward-hackson-2025/</guid>
+      <guid>http://localhost:3408/post/harward-hackson-2025/</guid>
       <description>&lt;h2 id=&#34;mentoring-at-the-2025-harvard-hsil-hackathon--london-hub-&#34;&gt;Mentoring at the &lt;strong&gt;2025 Harvard HSIL Hackathon – London Hub&lt;/strong&gt; 🌍&lt;/h2&gt;
 &lt;p&gt;I was honored to serve as a &lt;strong&gt;local mentor and judge&lt;/strong&gt; at the &lt;strong&gt;2025 Harvard HSIL Hackathon – London Hub&lt;/strong&gt;, held on &lt;strong&gt;April 11–12&lt;/strong&gt;. This dynamic event, led by &lt;strong&gt;Prof. Josip Car&lt;/strong&gt; and organized by &lt;strong&gt;Dr. Lei Lu&lt;/strong&gt;, brought together &lt;strong&gt;19 global hubs across 18 countries&lt;/strong&gt; to address critical healthcare system challenges under the theme &lt;em&gt;“Building High-Value Health Systems: Leveraging Artificial Intelligence”&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;As part of the &lt;strong&gt;London Hub&lt;/strong&gt;, I had the privilege to guide and evaluate outstanding student teams from top institutions including &lt;strong&gt;Oxford, Cambridge, Imperial, UCL, KCL, LSHTM&lt;/strong&gt;, and more. The energy, creativity, and collaborative spirit displayed during the hackathon were truly inspiring.&lt;/p&gt;
@@ -348,9 +348,9 @@ ACEEPTED, &lt;em&gt;PLOS Digital Health&lt;/em&gt;, Sept 2025.&lt;/p&gt;
     
     <item>
       <title>Dynamic Mortality Prediction in Critically Ill Children During Interhospital Transports Using Explainable AI</title>
-      <link>http://localhost:3061/publication/npj_digital_medicine/</link>
+      <link>http://localhost:3408/publication/npj_digital_medicine/</link>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/publication/npj_digital_medicine/</guid>
+      <guid>http://localhost:3408/publication/npj_digital_medicine/</guid>
       <description>&lt;h2 id=&#34;-ai-driven-mortality-prediction-for-interhospital-transport-in-pediatric-intensive-care&#34;&gt;🚑 AI-Driven Mortality Prediction for Interhospital Transport in Pediatric Intensive Care&lt;/h2&gt;
 &lt;p&gt;We are thrilled to share our latest research on &lt;strong&gt;real-time mortality risk prediction&lt;/strong&gt; in critically ill children during &lt;strong&gt;interhospital transport&lt;/strong&gt; to &lt;strong&gt;paediatric intensive care units (PICUs)&lt;/strong&gt;. This study, published in &lt;em&gt;npj Digital Medicine&lt;/em&gt;, introduces an &lt;strong&gt;explainable AI-powered model&lt;/strong&gt; designed to enhance &lt;strong&gt;clinical decision-making&lt;/strong&gt; in transport medicine.&lt;/p&gt;
 &lt;h3 id=&#34;-key-findings&#34;&gt;🔬 Key Findings&lt;/h3&gt;
@@ -368,9 +368,9 @@ ACEEPTED, &lt;em&gt;PLOS Digital Health&lt;/em&gt;, Sept 2025.&lt;/p&gt;
     
     <item>
       <title>Co-designing a User-Centred Digital Portal for Stroke Survivors</title>
-      <link>http://localhost:3061/project/patientportal/</link>
+      <link>http://localhost:3408/project/patientportal/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/project/patientportal/</guid>
+      <guid>http://localhost:3408/project/patientportal/</guid>
       <description>&lt;h2 id=&#34;co-designing-a-user-centred-digital-portal-for-stroke-survivors&#34;&gt;Co-designing a User-Centred Digital Portal for Stroke Survivors&lt;/h2&gt;
 &lt;h3 id=&#34;collaboration--partners&#34;&gt;🙏Collaboration &amp;amp; Partners&lt;/h3&gt;
 &lt;p&gt;This project is collaboration between &lt;a href=&#34;https://kcl.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;King&amp;rsquo;s College Lonodn&lt;/a&gt;, NHS, and &lt;a href=&#34;https://www.guysandstthomas.nhs.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guy&amp;rsquo;s and St Thomas&amp;rsquo; NHS Foundation Trust&lt;/a&gt;.&lt;/p&gt;
@@ -408,9 +408,9 @@ ACEEPTED, &lt;em&gt;PLOS Digital Health&lt;/em&gt;, Sept 2025.&lt;/p&gt;
     
     <item>
       <title>Leveragign AI to improve healthcare of critically ill children during transport to a higher level of care</title>
-      <link>http://localhost:3061/project/cats/</link>
+      <link>http://localhost:3408/project/cats/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/project/cats/</guid>
+      <guid>http://localhost:3408/project/cats/</guid>
       <description>&lt;h2 id=&#34;dynamic-mortality-prediction-in-critically-ill-children-during-inter-hospital-transports&#34;&gt;Dynamic Mortality Prediction in Critically Ill Children During Inter-Hospital Transports&lt;/h2&gt;
 &lt;h3 id=&#34;collaboration--partners&#34;&gt;🙏Collaboration &amp;amp; Partners&lt;/h3&gt;
 &lt;p&gt;This project is collaboration between &lt;a href=&#34;https://cats.nhs.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Children&amp;rsquo;s Acute Transport team&lt;/a&gt;, &lt;a href=&#34;https://www.gosh.nhs.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Great Ormand Street Hospital&lt;/a&gt;, &lt;a href=&#34;https://www.ucl.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University College London&lt;/a&gt; and &lt;a href=&#34;https://www.imperial.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Imperial College London&lt;/a&gt;, and a industry partner, &lt;a href=&#34;https://kinseed.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kinseed Company&lt;/a&gt; in the UK.&lt;/p&gt;
@@ -437,9 +437,9 @@ ACEEPTED, &lt;em&gt;PLOS Digital Health&lt;/em&gt;, Sept 2025.&lt;/p&gt;
     
     <item>
       <title>🎖 Honored as an Outstanding Reviewer of 2024 by IEEE TIM</title>
-      <link>http://localhost:3061/post/tim_outstanding_reviewer/</link>
+      <link>http://localhost:3408/post/tim_outstanding_reviewer/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/post/tim_outstanding_reviewer/</guid>
+      <guid>http://localhost:3408/post/tim_outstanding_reviewer/</guid>
       <description>&lt;h2 id=&#34;recognition-as-an-outstanding-reviewer-of-2024&#34;&gt;Recognition as an &lt;strong&gt;Outstanding Reviewer of 2024&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;I am honored to be recognized as an &lt;strong&gt;Outstanding Reviewer of 2024&lt;/strong&gt; by the &lt;strong&gt;IEEE Transactions on Instrumentation and Measurement (TIM)&lt;/strong&gt;. This award highlights my contributions to &lt;strong&gt;rigorous and constructive peer review&lt;/strong&gt;, ensuring the publication of high-quality research in &lt;strong&gt;instrumentation, measurement, and intelligent systems&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;IEEE TIM&lt;/strong&gt; is a leading journal covering &lt;strong&gt;advanced measurement techniques, sensor technology, and AI-driven industrial solutions&lt;/strong&gt;. As a reviewer, I am committed to &lt;strong&gt;upholding academic integrity&lt;/strong&gt; and &lt;strong&gt;helping researchers refine their work through insightful feedback&lt;/strong&gt;.&lt;/p&gt;
@@ -450,17 +450,17 @@ ACEEPTED, &lt;em&gt;PLOS Digital Health&lt;/em&gt;, Sept 2025.&lt;/p&gt;
     
     <item>
       <title>projects</title>
-      <link>http://localhost:3061/projects/</link>
+      <link>http://localhost:3408/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/projects/</guid>
+      <guid>http://localhost:3408/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>🏆 Best Paper Award at IEEE ICHI 2024!</title>
-      <link>http://localhost:3061/post/best-paper-award-chi/</link>
+      <link>http://localhost:3408/post/best-paper-award-chi/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/post/best-paper-award-chi/</guid>
+      <guid>http://localhost:3408/post/best-paper-award-chi/</guid>
       <description>&lt;h2 id=&#34;-exciting-news&#34;&gt;🎉 Exciting News!&lt;/h2&gt;
 &lt;p&gt;We are thrilled to share that our team at &lt;strong&gt;King’s College London (KCL)&lt;/strong&gt; has received the &lt;strong&gt;Best Paper Award&lt;/strong&gt; at this year’s &lt;strong&gt;International Conference on Health Informatics (ICHI 2024)!&lt;/strong&gt; This recognition highlights our commitment to leveraging &lt;strong&gt;digital technology to improve the lives of stroke survivors in London&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;-our-research-a-web3-based-patient-portal&#34;&gt;🏥 Our Research: A Web3-Based Patient Portal&lt;/h2&gt;
@@ -483,9 +483,9 @@ ACEEPTED, &lt;em&gt;PLOS Digital Health&lt;/em&gt;, Sept 2025.&lt;/p&gt;
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:3061/news_-example/get-started/</link>
+      <link>http://localhost:3408/news_-example/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/news_-example/get-started/</guid>
+      <guid>http://localhost:3408/news_-example/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -569,9 +569,9 @@ ACEEPTED, &lt;em&gt;PLOS Digital Health&lt;/em&gt;, Sept 2025.&lt;/p&gt;
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>http://localhost:3061/news_-example/second-brain/</link>
+      <link>http://localhost:3408/news_-example/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/news_-example/second-brain/</guid>
+      <guid>http://localhost:3408/news_-example/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -681,9 +681,9 @@ ACEEPTED, &lt;em&gt;PLOS Digital Health&lt;/em&gt;, Sept 2025.&lt;/p&gt;
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:3061/news_-example/data-visualization/</link>
+      <link>http://localhost:3408/news_-example/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/news_-example/data-visualization/</guid>
+      <guid>http://localhost:3408/news_-example/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -694,7 +694,7 @@ ACEEPTED, &lt;em&gt;PLOS Digital Health&lt;/em&gt;, Sept 2025.&lt;/p&gt;
 
 
 
-&lt;div id=&#34;chart-751624893&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-915348762&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -712,7 +712,7 @@ ACEEPTED, &lt;em&gt;PLOS Digital Health&lt;/em&gt;, Sept 2025.&lt;/p&gt;
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-751624893&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-915348762&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -891,9 +891,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:3061/news_-example/teach-courses/</link>
+      <link>http://localhost:3408/news_-example/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/news_-example/teach-courses/</guid>
+      <guid>http://localhost:3408/news_-example/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -943,7 +943,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:3061/news_-example/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:3408/news_-example/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -1002,17 +1002,17 @@ data.head()
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:3061/experience/</link>
+      <link>http://localhost:3408/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/experience/</guid>
+      <guid>http://localhost:3408/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:3061/teaching/js/</link>
+      <link>http://localhost:3408/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/teaching/js/</guid>
+      <guid>http://localhost:3408/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -1056,7 +1056,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:3061/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:3408/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -1133,9 +1133,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:3061/teaching/python/</link>
+      <link>http://localhost:3408/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/teaching/python/</guid>
+      <guid>http://localhost:3408/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -1179,7 +1179,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:3061/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:3408/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -1256,9 +1256,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:3061/news_-example/project-management/</link>
+      <link>http://localhost:3408/news_-example/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/news_-example/project-management/</guid>
+      <guid>http://localhost:3408/news_-example/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -1331,9 +1331,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Published in Intensive Care Medicine – Paediatric and Neonatal: High-Frequency Vital Signs Monitoring in Critically Ill Children</title>
-      <link>http://localhost:3061/publication/icm-pn-journal/</link>
+      <link>http://localhost:3408/publication/icm-pn-journal/</link>
       <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/publication/icm-pn-journal/</guid>
+      <guid>http://localhost:3408/publication/icm-pn-journal/</guid>
       <description>&lt;h2 id=&#34;-research-published-in-intensive-care-medicine--paediatric-and-neonatal&#34;&gt;🎉 Research Published in &lt;em&gt;Intensive Care Medicine – Paediatric and Neonatal&lt;/em&gt;&lt;/h2&gt;
 &lt;p&gt;We are pleased to announce that our latest study has been &lt;strong&gt;published&lt;/strong&gt; in &lt;em&gt;Intensive Care Medicine – Paediatric and Neonatal&lt;/em&gt;. This research, titled &lt;strong&gt;&amp;ldquo;Distribution and Trajectory of Vital Signs from High-Frequency Continuous Monitoring in Critically Ill Children,&amp;rdquo;&lt;/strong&gt; provides &lt;strong&gt;new insights into pediatric intensive care&lt;/strong&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;-key-findings&#34;&gt;🔬 Key Findings&lt;/h3&gt;
@@ -1352,9 +1352,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Data-driven Health Monitoring and Fault Diagnosis of Industrial Machinery Systems</title>
-      <link>http://localhost:3061/project/machinefaultdiagnosis/</link>
+      <link>http://localhost:3408/project/machinefaultdiagnosis/</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/project/machinefaultdiagnosis/</guid>
+      <guid>http://localhost:3408/project/machinefaultdiagnosis/</guid>
       <description>&lt;h3 id=&#34;collaboration--partners&#34;&gt;🙏Collaboration &amp;amp; Partners&lt;/h3&gt;
 &lt;p&gt;This project is collaboration between &lt;a href=&#34;https://www.lincoln.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Lincoln&lt;/a&gt;, &lt;a href=&#34;https://sites.google.com/view/leishu/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nanjing Agricultural University&lt;/a&gt;, Guangdong University of Petrochemical Technology.&lt;/p&gt;
 &lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;
@@ -1396,9 +1396,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example journal article</title>
-      <link>http://localhost:3061/publication/journal-article/</link>
+      <link>http://localhost:3408/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/publication/journal-article/</guid>
+      <guid>http://localhost:3408/publication/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -1417,9 +1417,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:3061/publication/conference-paper/</link>
+      <link>http://localhost:3408/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:3061/publication/conference-paper/</guid>
+      <guid>http://localhost:3408/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
