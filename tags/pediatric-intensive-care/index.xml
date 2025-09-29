@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pediatric Intensive Care | Zhiqiang Huo Profile</title>
-    <link>http://localhost:12332/tags/pediatric-intensive-care/</link>
-      <atom:link href="http://localhost:12332/tags/pediatric-intensive-care/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:3061/tags/pediatric-intensive-care/</link>
+      <atom:link href="http://localhost:3061/tags/pediatric-intensive-care/index.xml" rel="self" type="application/rss+xml" />
     <description>Pediatric Intensive Care</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:12332/media/logo.svg</url>
+      <url>http://localhost:3061/media/logo.svg</url>
       <title>Pediatric Intensive Care</title>
-      <link>http://localhost:12332/tags/pediatric-intensive-care/</link>
+      <link>http://localhost:3061/tags/pediatric-intensive-care/</link>
     </image>
     
     <item>
       <title>Leveragign AI to improve healthcare of critically ill children during transport to a higher level of care</title>
-      <link>http://localhost:12332/project/cats/</link>
+      <link>http://localhost:3061/project/cats/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:12332/project/cats/</guid>
+      <guid>http://localhost:3061/project/cats/</guid>
       <description>&lt;h2 id=&#34;dynamic-mortality-prediction-in-critically-ill-children-during-inter-hospital-transports&#34;&gt;Dynamic Mortality Prediction in Critically Ill Children During Inter-Hospital Transports&lt;/h2&gt;
 &lt;h3 id=&#34;collaboration--partners&#34;&gt;🙏Collaboration &amp;amp; Partners&lt;/h3&gt;
 &lt;p&gt;This project is collaboration between &lt;a href=&#34;https://cats.nhs.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Children&amp;rsquo;s Acute Transport team&lt;/a&gt;, &lt;a href=&#34;https://www.gosh.nhs.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Great Ormand Street Hospital&lt;/a&gt;, &lt;a href=&#34;https://www.ucl.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University College London&lt;/a&gt; and &lt;a href=&#34;https://www.imperial.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Imperial College London&lt;/a&gt;, and a industry partner, &lt;a href=&#34;https://kinseed.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kinseed Company&lt;/a&gt; in the UK.&lt;/p&gt;
