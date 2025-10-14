@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Zhiqiang Huo Profile</title>
-    <link>http://localhost:12450/tags/academic/</link>
-      <atom:link href="http://localhost:12450/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:7982/tags/academic/</link>
+      <atom:link href="http://localhost:7982/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:12450/media/logo.svg</url>
+      <url>http://localhost:7982/media/logo.svg</url>
       <title>Academic</title>
-      <link>http://localhost:12450/tags/academic/</link>
+      <link>http://localhost:7982/tags/academic/</link>
     </image>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:12450/news_-example/get-started/</link>
+      <link>http://localhost:7982/news_-example/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:12450/news_-example/get-started/</guid>
+      <guid>http://localhost:7982/news_-example/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
