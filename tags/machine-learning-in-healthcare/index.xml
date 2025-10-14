@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning in Healthcare | Zhiqiang Huo Profile</title>
-    <link>http://localhost:2269/tags/machine-learning-in-healthcare/</link>
-      <atom:link href="http://localhost:2269/tags/machine-learning-in-healthcare/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:12450/tags/machine-learning-in-healthcare/</link>
+      <atom:link href="http://localhost:12450/tags/machine-learning-in-healthcare/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning in Healthcare</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:2269/media/logo.svg</url>
+      <url>http://localhost:12450/media/logo.svg</url>
       <title>Machine Learning in Healthcare</title>
-      <link>http://localhost:2269/tags/machine-learning-in-healthcare/</link>
+      <link>http://localhost:12450/tags/machine-learning-in-healthcare/</link>
     </image>
     
     <item>
       <title>Dynamic Mortality Prediction in Critically Ill Children During Interhospital Transports Using Explainable AI</title>
-      <link>http://localhost:2269/publication/npj_digital_medicine/</link>
+      <link>http://localhost:12450/publication/npj_digital_medicine/</link>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:2269/publication/npj_digital_medicine/</guid>
+      <guid>http://localhost:12450/publication/npj_digital_medicine/</guid>
       <description>&lt;h2 id=&#34;-ai-driven-mortality-prediction-for-interhospital-transport-in-pediatric-intensive-care&#34;&gt;🚑 AI-Driven Mortality Prediction for Interhospital Transport in Pediatric Intensive Care&lt;/h2&gt;
 &lt;p&gt;We are thrilled to share our latest research on &lt;strong&gt;real-time mortality risk prediction&lt;/strong&gt; in critically ill children during &lt;strong&gt;interhospital transport&lt;/strong&gt; to &lt;strong&gt;paediatric intensive care units (PICUs)&lt;/strong&gt;. This study, published in &lt;em&gt;npj Digital Medicine&lt;/em&gt;, introduces an &lt;strong&gt;explainable AI-powered model&lt;/strong&gt; designed to enhance &lt;strong&gt;clinical decision-making&lt;/strong&gt; in transport medicine.&lt;/p&gt;
 &lt;h3 id=&#34;-key-findings&#34;&gt;🔬 Key Findings&lt;/h3&gt;
