@@ -2,287 +2,287 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:7982/mypublication/</loc>
+    <loc>http://localhost:13852/mypublication/</loc>
     <lastmod>2025-07-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/services/</loc>
+    <loc>http://localhost:13852/services/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/event/example/</loc>
+    <loc>http://localhost:13852/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/event/</loc>
+    <loc>http://localhost:13852/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/post/harward-hackson-2025/</loc>
+    <loc>http://localhost:13852/post/harward-hackson-2025/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/artificial-intelligence/</loc>
+    <loc>http://localhost:13852/tags/artificial-intelligence/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/post/</loc>
+    <loc>http://localhost:13852/post/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/global-collaboration/</loc>
+    <loc>http://localhost:13852/tags/global-collaboration/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/harvard-hsil-hackathon/</loc>
+    <loc>http://localhost:13852/tags/harvard-hsil-hackathon/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/healthcare-innovation/</loc>
+    <loc>http://localhost:13852/tags/healthcare-innovation/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/mentorship/</loc>
+    <loc>http://localhost:13852/tags/mentorship/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/</loc>
+    <loc>http://localhost:13852/tags/</loc>
     <lastmod>2025-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/publication_types/article-journal/</loc>
+    <loc>http://localhost:13852/publication_types/article-journal/</loc>
     <lastmod>2025-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/publication/npj_digital_medicine/</loc>
+    <loc>http://localhost:13852/publication/npj_digital_medicine/</loc>
     <lastmod>2025-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/health-data-science/</loc>
+    <loc>http://localhost:13852/tags/health-data-science/</loc>
     <lastmod>2025-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/icu-transport-monitoring/</loc>
+    <loc>http://localhost:13852/tags/icu-transport-monitoring/</loc>
     <lastmod>2025-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/machine-learning-in-healthcare/</loc>
+    <loc>http://localhost:13852/tags/machine-learning-in-healthcare/</loc>
     <lastmod>2025-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/mortality-prediction/</loc>
+    <loc>http://localhost:13852/tags/mortality-prediction/</loc>
     <lastmod>2025-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/pediatric-critical-care/</loc>
+    <loc>http://localhost:13852/tags/pediatric-critical-care/</loc>
     <lastmod>2025-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/publication_types/</loc>
+    <loc>http://localhost:13852/publication_types/</loc>
     <lastmod>2025-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/publication/</loc>
+    <loc>http://localhost:13852/publication/</loc>
     <lastmod>2025-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/ai-in-real-time-prediction/</loc>
+    <loc>http://localhost:13852/tags/ai-in-real-time-prediction/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/project/patientportal/</loc>
+    <loc>http://localhost:13852/project/patientportal/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/digital-patient-portal/</loc>
+    <loc>http://localhost:13852/tags/digital-patient-portal/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/project/cats/</loc>
+    <loc>http://localhost:13852/project/cats/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/paediatric-specialist-transport-team/</loc>
+    <loc>http://localhost:13852/tags/paediatric-specialist-transport-team/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/pediatric-intensive-care/</loc>
+    <loc>http://localhost:13852/tags/pediatric-intensive-care/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/project/</loc>
+    <loc>http://localhost:13852/project/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/slef-management/</loc>
+    <loc>http://localhost:13852/tags/slef-management/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/stroke-survivors/</loc>
+    <loc>http://localhost:13852/tags/stroke-survivors/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/</loc>
+    <loc>http://localhost:13852/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/ieee-tim/</loc>
+    <loc>http://localhost:13852/tags/ieee-tim/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/instrumentation-and-measurement/</loc>
+    <loc>http://localhost:13852/tags/instrumentation-and-measurement/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/peer-review/</loc>
+    <loc>http://localhost:13852/tags/peer-review/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/research/</loc>
+    <loc>http://localhost:13852/tags/research/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/post/tim_outstanding_reviewer/</loc>
+    <loc>http://localhost:13852/post/tim_outstanding_reviewer/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/projects/</loc>
+    <loc>http://localhost:13852/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/post/best-paper-award-chi/</loc>
+    <loc>http://localhost:13852/post/best-paper-award-chi/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/digital-health/</loc>
+    <loc>http://localhost:13852/tags/digital-health/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/health-informatics/</loc>
+    <loc>http://localhost:13852/tags/health-informatics/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/ichi-2024/</loc>
+    <loc>http://localhost:13852/tags/ichi-2024/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/news_-example/get-started/</loc>
+    <loc>http://localhost:13852/news_-example/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/academic/</loc>
+    <loc>http://localhost:13852/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/hugo-blox/</loc>
+    <loc>http://localhost:13852/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/markdown/</loc>
+    <loc>http://localhost:13852/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/news_-example/</loc>
+    <loc>http://localhost:13852/news_-example/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/second-brain/</loc>
+    <loc>http://localhost:13852/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/news_-example/second-brain/</loc>
+    <loc>http://localhost:13852/news_-example/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/news_-example/data-visualization/</loc>
+    <loc>http://localhost:13852/news_-example/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/hugo/</loc>
+    <loc>http://localhost:13852/tags/hugo/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/news_-example/teach-courses/</loc>
+    <loc>http://localhost:13852/news_-example/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/experience/</loc>
+    <loc>http://localhost:13852/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/hugo-blox-builder/</loc>
+    <loc>http://localhost:13852/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/javascript/</loc>
+    <loc>http://localhost:13852/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/teaching/js/</loc>
+    <loc>http://localhost:13852/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/teaching/python/</loc>
+    <loc>http://localhost:13852/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/python/</loc>
+    <loc>http://localhost:13852/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/teaching/</loc>
+    <loc>http://localhost:13852/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/news_-example/project-management/</loc>
+    <loc>http://localhost:13852/news_-example/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/icu-monitoring/</loc>
+    <loc>http://localhost:13852/tags/icu-monitoring/</loc>
     <lastmod>2023-09-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/publication/icm-pn-journal/</loc>
+    <loc>http://localhost:13852/publication/icm-pn-journal/</loc>
     <lastmod>2023-09-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/vital-signs-monitoring/</loc>
+    <loc>http://localhost:13852/tags/vital-signs-monitoring/</loc>
     <lastmod>2023-09-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/project/machinefaultdiagnosis/</loc>
+    <loc>http://localhost:13852/project/machinefaultdiagnosis/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/data-driven-prediction/</loc>
+    <loc>http://localhost:13852/tags/data-driven-prediction/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/fault-diagnosis/</loc>
+    <loc>http://localhost:13852/tags/fault-diagnosis/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/machine-health-monitoring/</loc>
+    <loc>http://localhost:13852/tags/machine-health-monitoring/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/publication/journal-article/</loc>
+    <loc>http://localhost:13852/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/source-themes/</loc>
+    <loc>http://localhost:13852/tags/source-themes/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/publication/conference-paper/</loc>
+    <loc>http://localhost:13852/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/tags/large-language-models/</loc>
+    <loc>http://localhost:13852/tags/large-language-models/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:7982/publication_types/paper-conference/</loc>
+    <loc>http://localhost:13852/publication_types/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

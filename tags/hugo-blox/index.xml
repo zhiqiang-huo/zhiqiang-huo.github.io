@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Blox | Zhiqiang Huo Profile</title>
-    <link>http://localhost:7982/tags/hugo-blox/</link>
-      <atom:link href="http://localhost:7982/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:13852/tags/hugo-blox/</link>
+      <atom:link href="http://localhost:13852/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:7982/media/logo.svg</url>
+      <url>http://localhost:13852/media/logo.svg</url>
       <title>Hugo Blox</title>
-      <link>http://localhost:7982/tags/hugo-blox/</link>
+      <link>http://localhost:13852/tags/hugo-blox/</link>
     </image>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:7982/news_-example/get-started/</link>
+      <link>http://localhost:13852/news_-example/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7982/news_-example/get-started/</guid>
+      <guid>http://localhost:13852/news_-example/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -100,9 +100,9 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:7982/news_-example/data-visualization/</link>
+      <link>http://localhost:13852/news_-example/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7982/news_-example/data-visualization/</guid>
+      <guid>http://localhost:13852/news_-example/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -113,7 +113,7 @@
 
 
 
-&lt;div id=&#34;chart-725634189&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-326748195&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -131,7 +131,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-725634189&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-326748195&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -310,9 +310,9 @@ Crash --&gt; [*]
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:7982/news_-example/project-management/</link>
+      <link>http://localhost:13852/news_-example/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7982/news_-example/project-management/</guid>
+      <guid>http://localhost:13852/news_-example/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
