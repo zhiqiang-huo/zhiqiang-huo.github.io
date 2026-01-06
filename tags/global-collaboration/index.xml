@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Global Collaboration | Zhiqiang Huo Profile</title>
-    <link>http://localhost:11171/tags/global-collaboration/</link>
-      <atom:link href="http://localhost:11171/tags/global-collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:7025/tags/global-collaboration/</link>
+      <atom:link href="http://localhost:7025/tags/global-collaboration/index.xml" rel="self" type="application/rss+xml" />
     <description>Global Collaboration</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:11171/media/logo.svg</url>
+      <url>http://localhost:7025/media/logo.svg</url>
       <title>Global Collaboration</title>
-      <link>http://localhost:11171/tags/global-collaboration/</link>
+      <link>http://localhost:7025/tags/global-collaboration/</link>
     </image>
     
     <item>
       <title>🚀 Mentoring at the 2025 Harvard HSIL Hackathon – London Hub</title>
-      <link>http://localhost:11171/post/harward-hackson-2025/</link>
+      <link>http://localhost:7025/post/harward-hackson-2025/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:11171/post/harward-hackson-2025/</guid>
+      <guid>http://localhost:7025/post/harward-hackson-2025/</guid>
       <description>&lt;h2 id=&#34;mentoring-at-the-2025-harvard-hsil-hackathon--london-hub-&#34;&gt;Mentoring at the &lt;strong&gt;2025 Harvard HSIL Hackathon – London Hub&lt;/strong&gt; 🌍&lt;/h2&gt;
 &lt;p&gt;I was honored to serve as a &lt;strong&gt;local mentor and judge&lt;/strong&gt; at the &lt;strong&gt;2025 Harvard HSIL Hackathon – London Hub&lt;/strong&gt;, held on &lt;strong&gt;April 11–12&lt;/strong&gt;. This dynamic event, led by &lt;strong&gt;Prof. Josip Car&lt;/strong&gt; and organized by &lt;strong&gt;Dr. Lei Lu&lt;/strong&gt;, brought together &lt;strong&gt;19 global hubs across 18 countries&lt;/strong&gt; to address critical healthcare system challenges under the theme &lt;em&gt;“Building High-Value Health Systems: Leveraging Artificial Intelligence”&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;As part of the &lt;strong&gt;London Hub&lt;/strong&gt;, I had the privilege to guide and evaluate outstanding student teams from top institutions including &lt;strong&gt;Oxford, Cambridge, Imperial, UCL, KCL, LSHTM&lt;/strong&gt;, and more. The energy, creativity, and collaborative spirit displayed during the hackathon were truly inspiring.&lt;/p&gt;

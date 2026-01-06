@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Associate Editor | Zhiqiang Huo Profile</title>
-    <link>http://localhost:11171/tags/associate-editor/</link>
-      <atom:link href="http://localhost:11171/tags/associate-editor/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:7025/tags/associate-editor/</link>
+      <atom:link href="http://localhost:7025/tags/associate-editor/index.xml" rel="self" type="application/rss+xml" />
     <description>Associate Editor</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:11171/media/logo.svg</url>
+      <url>http://localhost:7025/media/logo.svg</url>
       <title>Associate Editor</title>
-      <link>http://localhost:11171/tags/associate-editor/</link>
+      <link>http://localhost:7025/tags/associate-editor/</link>
     </image>
     
     <item>
       <title>🎓 Appointed as Associate Editor of IEEE Transactions on Instrumentation and Measurement</title>
-      <link>http://localhost:11171/post/tim_ae/</link>
+      <link>http://localhost:7025/post/tim_ae/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:11171/post/tim_ae/</guid>
+      <guid>http://localhost:7025/post/tim_ae/</guid>
       <description>&lt;h2 id=&#34;appointed-as-associate-editor-of-ieee-transactions-on-instrumentation-and-measurement-&#34;&gt;Appointed as &lt;strong&gt;Associate Editor of IEEE Transactions on Instrumentation and Measurement&lt;/strong&gt; 📘&lt;/h2&gt;
 &lt;p&gt;I am honored to share that I have been &lt;strong&gt;appointed as an Associate Editor (AE)&lt;/strong&gt; of &lt;strong&gt;IEEE Transactions on Instrumentation and Measurement (IEEE TIM)&lt;/strong&gt;, following an invitation based on my recognized contributions to the journal as both an &lt;strong&gt;author and reviewer&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;IEEE TIM&lt;/strong&gt; is widely regarded as the &lt;strong&gt;leading journal in Instrumentation and Measurement&lt;/strong&gt;, ranked &lt;strong&gt;No. 1 in General I&amp;amp;M&lt;/strong&gt; by Impact Factor and positioned in &lt;strong&gt;Q1 of both the Instruments &amp;amp; Instrumentation and Electrical &amp;amp; Electronic Engineering categories&lt;/strong&gt; of the &lt;em&gt;Journal Citation Reports (JCR)&lt;/em&gt;. Serving on its editorial board is both a privilege and a responsibility that I value greatly.&lt;/p&gt;
 &lt;h3 id=&#34;editorial-role-and-responsibilities-&#34;&gt;Editorial Role and Responsibilities ✍️&lt;/h3&gt;
 &lt;p&gt;As an Associate Editor, I will contribute to the &lt;strong&gt;peer-review and editorial decision-making process&lt;/strong&gt;, supporting the journal’s mission to publish &lt;strong&gt;high-quality, rigorous, and impactful research&lt;/strong&gt; across the full spectrum of instrumentation and measurement science.&lt;/p&gt;
-&lt;p&gt;This role enables close engagement with emerging research directions while upholding the highest standards of scholarly integrity and review quality.&lt;/p&gt;
+&lt;p&gt;In this role, I will contribute to the review of research on measurement and analysis in &lt;strong&gt;bioengineering and biomedical instrumentation&lt;/strong&gt;, including wearable sensing, physiological signal acquisition, real-time and longitudinal measurements, and measurement-based decision support, with a focus on &lt;strong&gt;AI- and machine learning–driven methods&lt;/strong&gt; addressing &lt;strong&gt;real-world instrumentation challenges&lt;/strong&gt; such as signal quality, reliability, robustness, and interpretability in healthcare settings.&lt;/p&gt;
 </description>
     </item>
     
