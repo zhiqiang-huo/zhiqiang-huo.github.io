@@ -2,21 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IEEE TIM | Zhiqiang Huo Profile</title>
-    <link>http://localhost:13852/tags/ieee-tim/</link>
-      <atom:link href="http://localhost:13852/tags/ieee-tim/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:11171/tags/ieee-tim/</link>
+      <atom:link href="http://localhost:11171/tags/ieee-tim/index.xml" rel="self" type="application/rss+xml" />
     <description>IEEE TIM</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:13852/media/logo.svg</url>
+      <url>http://localhost:11171/media/logo.svg</url>
       <title>IEEE TIM</title>
-      <link>http://localhost:13852/tags/ieee-tim/</link>
+      <link>http://localhost:11171/tags/ieee-tim/</link>
     </image>
     
     <item>
+      <title>🎓 Appointed as Associate Editor of IEEE Transactions on Instrumentation and Measurement</title>
+      <link>http://localhost:11171/post/tim_ae/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:11171/post/tim_ae/</guid>
+      <description>&lt;h2 id=&#34;appointed-as-associate-editor-of-ieee-transactions-on-instrumentation-and-measurement-&#34;&gt;Appointed as &lt;strong&gt;Associate Editor of IEEE Transactions on Instrumentation and Measurement&lt;/strong&gt; 📘&lt;/h2&gt;
+&lt;p&gt;I am honored to share that I have been &lt;strong&gt;appointed as an Associate Editor (AE)&lt;/strong&gt; of &lt;strong&gt;IEEE Transactions on Instrumentation and Measurement (IEEE TIM)&lt;/strong&gt;, following an invitation based on my recognized contributions to the journal as both an &lt;strong&gt;author and reviewer&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IEEE TIM&lt;/strong&gt; is widely regarded as the &lt;strong&gt;leading journal in Instrumentation and Measurement&lt;/strong&gt;, ranked &lt;strong&gt;No. 1 in General I&amp;amp;M&lt;/strong&gt; by Impact Factor and positioned in &lt;strong&gt;Q1 of both the Instruments &amp;amp; Instrumentation and Electrical &amp;amp; Electronic Engineering categories&lt;/strong&gt; of the &lt;em&gt;Journal Citation Reports (JCR)&lt;/em&gt;. Serving on its editorial board is both a privilege and a responsibility that I value greatly.&lt;/p&gt;
+&lt;h3 id=&#34;editorial-role-and-responsibilities-&#34;&gt;Editorial Role and Responsibilities ✍️&lt;/h3&gt;
+&lt;p&gt;As an Associate Editor, I will contribute to the &lt;strong&gt;peer-review and editorial decision-making process&lt;/strong&gt;, supporting the journal’s mission to publish &lt;strong&gt;high-quality, rigorous, and impactful research&lt;/strong&gt; across the full spectrum of instrumentation and measurement science.&lt;/p&gt;
+&lt;p&gt;This role enables close engagement with emerging research directions while upholding the highest standards of scholarly integrity and review quality.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>🎖 Honored as an Outstanding Reviewer of 2024 by IEEE TIM</title>
-      <link>http://localhost:13852/post/tim_outstanding_reviewer/</link>
+      <link>http://localhost:11171/post/tim_outstanding_reviewer/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:13852/post/tim_outstanding_reviewer/</guid>
+      <guid>http://localhost:11171/post/tim_outstanding_reviewer/</guid>
       <description>&lt;h2 id=&#34;recognition-as-an-outstanding-reviewer-of-2024&#34;&gt;Recognition as an &lt;strong&gt;Outstanding Reviewer of 2024&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;I am honored to be recognized as an &lt;strong&gt;Outstanding Reviewer of 2024&lt;/strong&gt; by the &lt;strong&gt;IEEE Transactions on Instrumentation and Measurement (TIM)&lt;/strong&gt;. This award highlights my contributions to &lt;strong&gt;rigorous and constructive peer review&lt;/strong&gt;, ensuring the publication of high-quality research in &lt;strong&gt;instrumentation, measurement, and intelligent systems&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;IEEE TIM&lt;/strong&gt; is a leading journal covering &lt;strong&gt;advanced measurement techniques, sensor technology, and AI-driven industrial solutions&lt;/strong&gt;. As a reviewer, I am committed to &lt;strong&gt;upholding academic integrity&lt;/strong&gt; and &lt;strong&gt;helping researchers refine their work through insightful feedback&lt;/strong&gt;.&lt;/p&gt;
