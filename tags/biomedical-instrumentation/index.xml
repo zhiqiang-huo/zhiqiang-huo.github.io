@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biomedical Instrumentation | Zhiqiang Huo Profile</title>
-    <link>http://localhost:7025/tags/biomedical-instrumentation/</link>
-      <atom:link href="http://localhost:7025/tags/biomedical-instrumentation/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:8527/tags/biomedical-instrumentation/</link>
+      <atom:link href="http://localhost:8527/tags/biomedical-instrumentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Biomedical Instrumentation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:7025/media/logo.svg</url>
+      <url>http://localhost:8527/media/logo.svg</url>
       <title>Biomedical Instrumentation</title>
-      <link>http://localhost:7025/tags/biomedical-instrumentation/</link>
+      <link>http://localhost:8527/tags/biomedical-instrumentation/</link>
     </image>
     
     <item>
       <title>🎓 Appointed as Associate Editor of IEEE Transactions on Instrumentation and Measurement</title>
-      <link>http://localhost:7025/post/tim_ae/</link>
+      <link>http://localhost:8527/post/tim_ae/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7025/post/tim_ae/</guid>
+      <guid>http://localhost:8527/post/tim_ae/</guid>
       <description>&lt;h2 id=&#34;appointed-as-associate-editor-of-ieee-transactions-on-instrumentation-and-measurement-&#34;&gt;Appointed as &lt;strong&gt;Associate Editor of IEEE Transactions on Instrumentation and Measurement&lt;/strong&gt; 📘&lt;/h2&gt;
 &lt;p&gt;I am honored to share that I have been &lt;strong&gt;appointed as an Associate Editor (AE)&lt;/strong&gt; of &lt;strong&gt;IEEE Transactions on Instrumentation and Measurement (IEEE TIM)&lt;/strong&gt;, following an invitation based on my recognized contributions to the journal as both an &lt;strong&gt;author and reviewer&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;IEEE TIM&lt;/strong&gt; is widely regarded as the &lt;strong&gt;leading journal in Instrumentation and Measurement&lt;/strong&gt;, ranked &lt;strong&gt;No. 1 in General I&amp;amp;M&lt;/strong&gt; by Impact Factor and positioned in &lt;strong&gt;Q1 of both the Instruments &amp;amp; Instrumentation and Electrical &amp;amp; Electronic Engineering categories&lt;/strong&gt; of the &lt;em&gt;Journal Citation Reports (JCR)&lt;/em&gt;. Serving on its editorial board is both a privilege and a responsibility that I value greatly.&lt;/p&gt;
